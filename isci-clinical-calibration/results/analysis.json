@@ -1,0 +1,1400 @@
+{
+ "summary": [
+  {
+   "metric": "brier",
+   "model": "LR",
+   "method": "none",
+   "mean": 0.12625702702885142,
+   "rank": 2.6
+  },
+  {
+   "metric": "brier",
+   "model": "LR",
+   "method": "platt",
+   "mean": 0.12529808954601787,
+   "rank": 2.533333333333333
+  },
+  {
+   "metric": "brier",
+   "model": "LR",
+   "method": "isotonic",
+   "mean": 0.12732503931680186,
+   "rank": 4.4
+  },
+  {
+   "metric": "brier",
+   "model": "LR",
+   "method": "beta",
+   "mean": 0.12532340240898607,
+   "rank": 3.1333333333333333
+  },
+  {
+   "metric": "brier",
+   "model": "LR",
+   "method": "temperature",
+   "mean": 0.12564265896718643,
+   "rank": 2.3333333333333335
+  },
+  {
+   "metric": "brier",
+   "model": "NB",
+   "method": "none",
+   "mean": 0.2438950660531714,
+   "rank": 4.933333333333334
+  },
+  {
+   "metric": "brier",
+   "model": "NB",
+   "method": "platt",
+   "mean": 0.13942300870927654,
+   "rank": 2.2666666666666666
+  },
+  {
+   "metric": "brier",
+   "model": "NB",
+   "method": "isotonic",
+   "mean": 0.13718390980815626,
+   "rank": 2.2
+  },
+  {
+   "metric": "brier",
+   "model": "NB",
+   "method": "beta",
+   "mean": 0.1375019768641051,
+   "rank": 2.2
+  },
+  {
+   "metric": "brier",
+   "model": "NB",
+   "method": "temperature",
+   "mean": 0.16546046294578004,
+   "rank": 3.4
+  },
+  {
+   "metric": "brier",
+   "model": "KNN",
+   "method": "none",
+   "mean": 0.13499090680016632,
+   "rank": 2.933333333333333
+  },
+  {
+   "metric": "brier",
+   "model": "KNN",
+   "method": "platt",
+   "mean": 0.13613259820829074,
+   "rank": 3.4
+  },
+  {
+   "metric": "brier",
+   "model": "KNN",
+   "method": "isotonic",
+   "mean": 0.13369378009526456,
+   "rank": 2.4
+  },
+  {
+   "metric": "brier",
+   "model": "KNN",
+   "method": "beta",
+   "mean": 0.13381557423418575,
+   "rank": 2.2666666666666666
+  },
+  {
+   "metric": "brier",
+   "model": "KNN",
+   "method": "temperature",
+   "mean": 0.13807333330603835,
+   "rank": 4.0
+  },
+  {
+   "metric": "brier",
+   "model": "RF",
+   "method": "none",
+   "mean": 0.13595724219716354,
+   "rank": 3.6666666666666665
+  },
+  {
+   "metric": "brier",
+   "model": "RF",
+   "method": "platt",
+   "mean": 0.1281836413705732,
+   "rank": 2.3333333333333335
+  },
+  {
+   "metric": "brier",
+   "model": "RF",
+   "method": "isotonic",
+   "mean": 0.1303147038530244,
+   "rank": 3.7333333333333334
+  },
+  {
+   "metric": "brier",
+   "model": "RF",
+   "method": "beta",
+   "mean": 0.12833184767196057,
+   "rank": 2.6666666666666665
+  },
+  {
+   "metric": "brier",
+   "model": "RF",
+   "method": "temperature",
+   "mean": 0.12984604820883985,
+   "rank": 2.6
+  },
+  {
+   "metric": "brier",
+   "model": "GB",
+   "method": "none",
+   "mean": 0.14222361490256386,
+   "rank": 4.666666666666667
+  },
+  {
+   "metric": "brier",
+   "model": "GB",
+   "method": "platt",
+   "mean": 0.13264844227250466,
+   "rank": 1.8
+  },
+  {
+   "metric": "brier",
+   "model": "GB",
+   "method": "isotonic",
+   "mean": 0.1348810211379759,
+   "rank": 3.8
+  },
+  {
+   "metric": "brier",
+   "model": "GB",
+   "method": "beta",
+   "mean": 0.1330120938311219,
+   "rank": 2.1333333333333333
+  },
+  {
+   "metric": "brier",
+   "model": "GB",
+   "method": "temperature",
+   "mean": 0.13541672177656447,
+   "rank": 2.6
+  },
+  {
+   "metric": "logloss",
+   "model": "LR",
+   "method": "none",
+   "mean": 0.39399016912334434,
+   "rank": 2.6666666666666665
+  },
+  {
+   "metric": "logloss",
+   "model": "LR",
+   "method": "platt",
+   "mean": 0.38648931196825687,
+   "rank": 2.2666666666666666
+  },
+  {
+   "metric": "logloss",
+   "model": "LR",
+   "method": "isotonic",
+   "mean": 0.4361054209147348,
+   "rank": 5.0
+  },
+  {
+   "metric": "logloss",
+   "model": "LR",
+   "method": "beta",
+   "mean": 0.38783171397239496,
+   "rank": 3.0
+  },
+  {
+   "metric": "logloss",
+   "model": "LR",
+   "method": "temperature",
+   "mean": 0.3881505925215308,
+   "rank": 2.066666666666667
+  },
+  {
+   "metric": "logloss",
+   "model": "NB",
+   "method": "none",
+   "mean": 1.888473707803319,
+   "rank": 5.0
+  },
+  {
+   "metric": "logloss",
+   "model": "NB",
+   "method": "platt",
+   "mean": 0.42848209897360534,
+   "rank": 1.8
+  },
+  {
+   "metric": "logloss",
+   "model": "NB",
+   "method": "isotonic",
+   "mean": 0.4488806630902712,
+   "rank": 3.066666666666667
+  },
+  {
+   "metric": "logloss",
+   "model": "NB",
+   "method": "beta",
+   "mean": 0.4242659294414677,
+   "rank": 1.8666666666666667
+  },
+  {
+   "metric": "logloss",
+   "model": "NB",
+   "method": "temperature",
+   "mean": 0.49544594369206546,
+   "rank": 3.2666666666666666
+  },
+  {
+   "metric": "logloss",
+   "model": "KNN",
+   "method": "none",
+   "mean": 0.45132430914222976,
+   "rank": 4.466666666666667
+  },
+  {
+   "metric": "logloss",
+   "model": "KNN",
+   "method": "platt",
+   "mean": 0.4273388520008231,
+   "rank": 2.3333333333333335
+  },
+  {
+   "metric": "logloss",
+   "model": "KNN",
+   "method": "isotonic",
+   "mean": 0.43778668704489176,
+   "rank": 3.4
+  },
+  {
+   "metric": "logloss",
+   "model": "KNN",
+   "method": "beta",
+   "mean": 0.4180100222438817,
+   "rank": 1.4666666666666666
+  },
+  {
+   "metric": "logloss",
+   "model": "KNN",
+   "method": "temperature",
+   "mean": 0.43864720942814855,
+   "rank": 3.3333333333333335
+  },
+  {
+   "metric": "logloss",
+   "model": "RF",
+   "method": "none",
+   "mean": 0.43143729090258276,
+   "rank": 3.3333333333333335
+  },
+  {
+   "metric": "logloss",
+   "model": "RF",
+   "method": "platt",
+   "mean": 0.392430937091579,
+   "rank": 2.2
+  },
+  {
+   "metric": "logloss",
+   "model": "RF",
+   "method": "isotonic",
+   "mean": 0.44259046129464813,
+   "rank": 4.666666666666667
+  },
+  {
+   "metric": "logloss",
+   "model": "RF",
+   "method": "beta",
+   "mean": 0.39321077560152945,
+   "rank": 2.466666666666667
+  },
+  {
+   "metric": "logloss",
+   "model": "RF",
+   "method": "temperature",
+   "mean": 0.3964986952432937,
+   "rank": 2.3333333333333335
+  },
+  {
+   "metric": "logloss",
+   "model": "GB",
+   "method": "none",
+   "mean": 0.4556913162553764,
+   "rank": 4.533333333333333
+  },
+  {
+   "metric": "logloss",
+   "model": "GB",
+   "method": "platt",
+   "mean": 0.40863330007654747,
+   "rank": 1.8666666666666667
+  },
+  {
+   "metric": "logloss",
+   "model": "GB",
+   "method": "isotonic",
+   "mean": 0.4422063121221261,
+   "rank": 4.2
+  },
+  {
+   "metric": "logloss",
+   "model": "GB",
+   "method": "beta",
+   "mean": 0.40919945162773136,
+   "rank": 2.0
+  },
+  {
+   "metric": "logloss",
+   "model": "GB",
+   "method": "temperature",
+   "mean": 0.41451655368783175,
+   "rank": 2.4
+  },
+  {
+   "metric": "ece",
+   "model": "LR",
+   "method": "none",
+   "mean": 0.08846382276338721,
+   "rank": 2.2666666666666666
+  },
+  {
+   "metric": "ece",
+   "model": "LR",
+   "method": "platt",
+   "mean": 0.09043519404540978,
+   "rank": 3.066666666666667
+  },
+  {
+   "metric": "ece",
+   "model": "LR",
+   "method": "isotonic",
+   "mean": 0.09191818556070436,
+   "rank": 3.4
+  },
+  {
+   "metric": "ece",
+   "model": "LR",
+   "method": "beta",
+   "mean": 0.09053671349477505,
+   "rank": 3.533333333333333
+  },
+  {
+   "metric": "ece",
+   "model": "LR",
+   "method": "temperature",
+   "mean": 0.09037726382573162,
+   "rank": 2.7333333333333334
+  },
+  {
+   "metric": "ece",
+   "model": "NB",
+   "method": "none",
+   "mean": 0.22294492009526082,
+   "rank": 3.933333333333333
+  },
+  {
+   "metric": "ece",
+   "model": "NB",
+   "method": "platt",
+   "mean": 0.10623727201399662,
+   "rank": 2.8666666666666667
+  },
+  {
+   "metric": "ece",
+   "model": "NB",
+   "method": "isotonic",
+   "mean": 0.09880614972323998,
+   "rank": 2.066666666666667
+  },
+  {
+   "metric": "ece",
+   "model": "NB",
+   "method": "beta",
+   "mean": 0.10162513418258938,
+   "rank": 2.3333333333333335
+  },
+  {
+   "metric": "ece",
+   "model": "NB",
+   "method": "temperature",
+   "mean": 0.1604937795137958,
+   "rank": 3.8
+  },
+  {
+   "metric": "ece",
+   "model": "KNN",
+   "method": "none",
+   "mean": 0.09822687633385163,
+   "rank": 2.7333333333333334
+  },
+  {
+   "metric": "ece",
+   "model": "KNN",
+   "method": "platt",
+   "mean": 0.10202035514548159,
+   "rank": 3.466666666666667
+  },
+  {
+   "metric": "ece",
+   "model": "KNN",
+   "method": "isotonic",
+   "mean": 0.097255236052316,
+   "rank": 2.466666666666667
+  },
+  {
+   "metric": "ece",
+   "model": "KNN",
+   "method": "beta",
+   "mean": 0.0976384400448999,
+   "rank": 2.6
+  },
+  {
+   "metric": "ece",
+   "model": "KNN",
+   "method": "temperature",
+   "mean": 0.10726992730504702,
+   "rank": 3.7333333333333334
+  },
+  {
+   "metric": "ece",
+   "model": "RF",
+   "method": "none",
+   "mean": 0.10641342626979176,
+   "rank": 3.933333333333333
+  },
+  {
+   "metric": "ece",
+   "model": "RF",
+   "method": "platt",
+   "mean": 0.08887855450091307,
+   "rank": 2.4
+  },
+  {
+   "metric": "ece",
+   "model": "RF",
+   "method": "isotonic",
+   "mean": 0.09209079843501068,
+   "rank": 3.0
+  },
+  {
+   "metric": "ece",
+   "model": "RF",
+   "method": "beta",
+   "mean": 0.08954847302156856,
+   "rank": 3.0
+  },
+  {
+   "metric": "ece",
+   "model": "RF",
+   "method": "temperature",
+   "mean": 0.09151923146265939,
+   "rank": 2.6666666666666665
+  },
+  {
+   "metric": "ece",
+   "model": "GB",
+   "method": "none",
+   "mean": 0.10790754301125192,
+   "rank": 3.2
+  },
+  {
+   "metric": "ece",
+   "model": "GB",
+   "method": "platt",
+   "mean": 0.09891407699664176,
+   "rank": 2.8
+  },
+  {
+   "metric": "ece",
+   "model": "GB",
+   "method": "isotonic",
+   "mean": 0.10230842213164129,
+   "rank": 2.8
+  },
+  {
+   "metric": "ece",
+   "model": "GB",
+   "method": "beta",
+   "mean": 0.09862143165784996,
+   "rank": 2.8
+  },
+  {
+   "metric": "ece",
+   "model": "GB",
+   "method": "temperature",
+   "mean": 0.10450649173282288,
+   "rank": 3.4
+  },
+  {
+   "metric": "auc",
+   "model": "LR",
+   "method": "none",
+   "mean": 0.8396834693929894,
+   "rank": 2.5
+  },
+  {
+   "metric": "auc",
+   "model": "LR",
+   "method": "platt",
+   "mean": 0.8396834693929894,
+   "rank": 2.5
+  },
+  {
+   "metric": "auc",
+   "model": "LR",
+   "method": "isotonic",
+   "mean": 0.8324083765674009,
+   "rank": 5.0
+  },
+  {
+   "metric": "auc",
+   "model": "LR",
+   "method": "beta",
+   "mean": 0.839683362346804,
+   "rank": 2.5
+  },
+  {
+   "metric": "auc",
+   "model": "LR",
+   "method": "temperature",
+   "mean": 0.8396834693929894,
+   "rank": 2.5
+  },
+  {
+   "metric": "auc",
+   "model": "NB",
+   "method": "none",
+   "mean": 0.8197534946272732,
+   "rank": 1.2333333333333334
+  },
+  {
+   "metric": "auc",
+   "model": "NB",
+   "method": "platt",
+   "mean": 0.8022788384992826,
+   "rank": 3.3
+  },
+  {
+   "metric": "auc",
+   "model": "NB",
+   "method": "isotonic",
+   "mean": 0.8099576763374124,
+   "rank": 4.0
+  },
+  {
+   "metric": "auc",
+   "model": "NB",
+   "method": "beta",
+   "mean": 0.8023498465807388,
+   "rank": 3.3
+  },
+  {
+   "metric": "auc",
+   "model": "NB",
+   "method": "temperature",
+   "mean": 0.8037883623088065,
+   "rank": 3.1666666666666665
+  },
+  {
+   "metric": "auc",
+   "model": "KNN",
+   "method": "none",
+   "mean": 0.8147977391266231,
+   "rank": 2.3
+  },
+  {
+   "metric": "auc",
+   "model": "KNN",
+   "method": "platt",
+   "mean": 0.8138612311901152,
+   "rank": 2.466666666666667
+  },
+  {
+   "metric": "auc",
+   "model": "KNN",
+   "method": "isotonic",
+   "mean": 0.8086164163119605,
+   "rank": 4.933333333333334
+  },
+  {
+   "metric": "auc",
+   "model": "KNN",
+   "method": "beta",
+   "mean": 0.814895968065435,
+   "rank": 3.0
+  },
+  {
+   "metric": "auc",
+   "model": "KNN",
+   "method": "temperature",
+   "mean": 0.8147977391266231,
+   "rank": 2.3
+  },
+  {
+   "metric": "auc",
+   "model": "RF",
+   "method": "none",
+   "mean": 0.8213615226486101,
+   "rank": 2.6
+  },
+  {
+   "metric": "auc",
+   "model": "RF",
+   "method": "platt",
+   "mean": 0.8213614334003118,
+   "rank": 2.433333333333333
+  },
+  {
+   "metric": "auc",
+   "model": "RF",
+   "method": "isotonic",
+   "mean": 0.8146271104815194,
+   "rank": 5.0
+  },
+  {
+   "metric": "auc",
+   "model": "RF",
+   "method": "beta",
+   "mean": 0.8213679520153725,
+   "rank": 2.3333333333333335
+  },
+  {
+   "metric": "auc",
+   "model": "RF",
+   "method": "temperature",
+   "mean": 0.8213606643411243,
+   "rank": 2.6333333333333333
+  },
+  {
+   "metric": "auc",
+   "model": "GB",
+   "method": "none",
+   "mean": 0.8104326316700281,
+   "rank": 2.466666666666667
+  },
+  {
+   "metric": "auc",
+   "model": "GB",
+   "method": "platt",
+   "mean": 0.8086239015112979,
+   "rank": 2.8
+  },
+  {
+   "metric": "auc",
+   "model": "GB",
+   "method": "isotonic",
+   "mean": 0.8025343249567439,
+   "rank": 4.933333333333334
+  },
+  {
+   "metric": "auc",
+   "model": "GB",
+   "method": "beta",
+   "mean": 0.8104331763323375,
+   "rank": 2.3333333333333335
+  },
+  {
+   "metric": "auc",
+   "model": "GB",
+   "method": "temperature",
+   "mean": 0.8104326316700281,
+   "rank": 2.466666666666667
+  }
+ ],
+ "friedman": {
+  "brier|LR": [
+   16.80000000000001,
+   0.002113752847281164
+  ],
+  "brier|NB": [
+   34.29333333333335,
+   6.487750583974078e-07
+  ],
+  "brier|KNN": [
+   12.373333333333335,
+   0.014780608271120889
+  ],
+  "brier|RF": [
+   10.186666666666667,
+   0.037397999848610246
+  ],
+  "brier|GB": [
+   34.613333333333344,
+   5.57724137285249e-07
+  ],
+  "logloss|LR": [
+   33.120000000000005,
+   1.1287763232334748e-06
+  ],
+  "logloss|NB": [
+   40.80000000000001,
+   2.9566937449101973e-08
+  ],
+  "logloss|KNN": [
+   31.306666666666672,
+   2.6506042191111903e-06
+  ],
+  "logloss|RF": [
+   25.54666666666668,
+   3.905268298057515e-05
+  ],
+  "logloss|GB": [
+   38.613333333333344,
+   8.372590347786021e-08
+  ]
+ },
+ "comparisons": [
+  {
+   "metric": "brier",
+   "model": "LR",
+   "method": "platt",
+   "mean_diff": -0.000958937482833543,
+   "median_diff": 1.1826528153929816e-05,
+   "ci": [
+    -0.0026024060490462404,
+    0.00033957812343823163
+   ],
+   "better": 7,
+   "worse": 8,
+   "p": 0.803955078125,
+   "p_holm": 1.0
+  },
+  {
+   "metric": "brier",
+   "model": "LR",
+   "method": "isotonic",
+   "mean_diff": 0.001068012287950491,
+   "median_diff": 0.001834028113016084,
+   "ci": [
+    -0.0007560066269567757,
+    0.0027034949891114996
+   ],
+   "better": 3,
+   "worse": 12,
+   "p": 0.1353759765625,
+   "p_holm": 1.0
+  },
+  {
+   "metric": "brier",
+   "model": "LR",
+   "method": "beta",
+   "mean_diff": -0.000933624619865329,
+   "median_diff": 5.1128164222633e-05,
+   "ci": [
+    -0.0026266890671537675,
+    0.00047976957699660756
+   ],
+   "better": 7,
+   "worse": 8,
+   "p": 0.67877197265625,
+   "p_holm": 1.0
+  },
+  {
+   "metric": "brier",
+   "model": "LR",
+   "method": "temperature",
+   "mean_diff": -0.0006143680616649684,
+   "median_diff": 3.984070636667281e-05,
+   "ci": [
+    -0.001530290608840074,
+    2.5338170331147823e-06
+   ],
+   "better": 7,
+   "worse": 8,
+   "p": 0.45428466796875,
+   "p_holm": 1.0
+  },
+  {
+   "metric": "brier",
+   "model": "NB",
+   "method": "platt",
+   "mean_diff": -0.10447205734389481,
+   "median_diff": -0.013315317942068472,
+   "ci": [
+    -0.21036300587548257,
+    -0.03215949929120405
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "brier",
+   "model": "NB",
+   "method": "isotonic",
+   "mean_diff": -0.1067111562450151,
+   "median_diff": -0.027448888305437708,
+   "ci": [
+    -0.2126037392266022,
+    -0.03444218221361306
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "brier",
+   "model": "NB",
+   "method": "beta",
+   "mean_diff": -0.10639308918906626,
+   "median_diff": -0.02423770183296184,
+   "ci": [
+    -0.2115698634764441,
+    -0.03445904180445425
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "brier",
+   "model": "NB",
+   "method": "temperature",
+   "mean_diff": -0.07843460310739134,
+   "median_diff": -0.012486349270117256,
+   "ci": [
+    -0.16344920902125157,
+    -0.023855190112993672
+   ],
+   "better": 14,
+   "worse": 1,
+   "p": 0.0001220703125,
+   "p_holm": 0.001953125
+  },
+  {
+   "metric": "brier",
+   "model": "KNN",
+   "method": "platt",
+   "mean_diff": 0.0011416914081243813,
+   "median_diff": 0.0006732429199976242,
+   "ci": [
+    -0.002015877886900541,
+    0.00507874455448515
+   ],
+   "better": 7,
+   "worse": 8,
+   "p": 0.67877197265625,
+   "p_holm": 1.0
+  },
+  {
+   "metric": "brier",
+   "model": "KNN",
+   "method": "isotonic",
+   "mean_diff": -0.0012971267049017535,
+   "median_diff": -0.0004668265377345965,
+   "ci": [
+    -0.003954853005347051,
+    0.0008687307592022269
+   ],
+   "better": 9,
+   "worse": 6,
+   "p": 0.42120361328125,
+   "p_holm": 1.0
+  },
+  {
+   "metric": "brier",
+   "model": "KNN",
+   "method": "beta",
+   "mean_diff": -0.0011753325659805904,
+   "median_diff": -0.00020576165918897993,
+   "ci": [
+    -0.0030255562925277824,
+    0.00037008525390928333
+   ],
+   "better": 9,
+   "worse": 6,
+   "p": 0.30279541015625,
+   "p_holm": 1.0
+  },
+  {
+   "metric": "brier",
+   "model": "KNN",
+   "method": "temperature",
+   "mean_diff": 0.003082426505872014,
+   "median_diff": 0.0012834707035820486,
+   "ci": [
+    0.0006275872744355127,
+    0.006184585877380534
+   ],
+   "better": 4,
+   "worse": 11,
+   "p": 0.041259765625,
+   "p_holm": 0.41259765625
+  },
+  {
+   "metric": "brier",
+   "model": "RF",
+   "method": "platt",
+   "mean_diff": -0.0077736008265903616,
+   "median_diff": -0.0007976774297217826,
+   "ci": [
+    -0.016019644391333306,
+    -0.001112580878562593
+   ],
+   "better": 10,
+   "worse": 5,
+   "p": 0.0301513671875,
+   "p_holm": 0.3316650390625
+  },
+  {
+   "metric": "brier",
+   "model": "RF",
+   "method": "isotonic",
+   "mean_diff": -0.005642538344139133,
+   "median_diff": -0.0009571847246680129,
+   "ci": [
+    -0.013803770240349492,
+    0.0009341364011831041
+   ],
+   "better": 9,
+   "worse": 6,
+   "p": 0.846923828125,
+   "p_holm": 1.0
+  },
+  {
+   "metric": "brier",
+   "model": "RF",
+   "method": "beta",
+   "mean_diff": -0.007625394525202961,
+   "median_diff": -0.0005979577767545041,
+   "ci": [
+    -0.015994745424597143,
+    -0.0008656770030925793
+   ],
+   "better": 10,
+   "worse": 5,
+   "p": 0.0946044921875,
+   "p_holm": 0.8514404296875
+  },
+  {
+   "metric": "brier",
+   "model": "RF",
+   "method": "temperature",
+   "mean_diff": -0.006111193988323729,
+   "median_diff": -0.0008965545743214176,
+   "ci": [
+    -0.013034406318532981,
+    -0.0009915893281410351
+   ],
+   "better": 11,
+   "worse": 4,
+   "p": 0.012451171875,
+   "p_holm": 0.1494140625
+  },
+  {
+   "metric": "brier",
+   "model": "GB",
+   "method": "platt",
+   "mean_diff": -0.009575172630059164,
+   "median_diff": -0.010230133491730395,
+   "ci": [
+    -0.01481599673663554,
+    -0.0052180739893068085
+   ],
+   "better": 14,
+   "worse": 1,
+   "p": 0.00018310546875,
+   "p_holm": 0.00274658203125
+  },
+  {
+   "metric": "brier",
+   "model": "GB",
+   "method": "isotonic",
+   "mean_diff": -0.00734259376458791,
+   "median_diff": -0.006534852933893914,
+   "ci": [
+    -0.012562382743875505,
+    -0.003063271552524206
+   ],
+   "better": 12,
+   "worse": 3,
+   "p": 0.00335693359375,
+   "p_holm": 0.04364013671875
+  },
+  {
+   "metric": "brier",
+   "model": "GB",
+   "method": "beta",
+   "mean_diff": -0.009211521071441934,
+   "median_diff": -0.007915531358256567,
+   "ci": [
+    -0.014430347991454949,
+    -0.0049265068218428505
+   ],
+   "better": 14,
+   "worse": 1,
+   "p": 0.00042724609375,
+   "p_holm": 0.0059814453125
+  },
+  {
+   "metric": "brier",
+   "model": "GB",
+   "method": "temperature",
+   "mean_diff": -0.006806893125999345,
+   "median_diff": -0.006082464906984525,
+   "ci": [
+    -0.01004529798329867,
+    -0.003869678786798097
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "logloss",
+   "model": "LR",
+   "method": "platt",
+   "mean_diff": -0.007500857155087412,
+   "median_diff": -0.00020316112732965408,
+   "ci": [
+    -0.015042565821292472,
+    -0.0014315989612127865
+   ],
+   "better": 8,
+   "worse": 7,
+   "p": 0.1688232421875,
+   "p_holm": 0.75714111328125
+  },
+  {
+   "metric": "logloss",
+   "model": "LR",
+   "method": "isotonic",
+   "mean_diff": 0.042115251791390494,
+   "median_diff": 0.036724028724982594,
+   "ci": [
+    0.028772549631109857,
+    0.05631727561520792
+   ],
+   "better": 0,
+   "worse": 15,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "logloss",
+   "model": "LR",
+   "method": "beta",
+   "mean_diff": -0.0061584551509494085,
+   "median_diff": -0.0012296548615889913,
+   "ci": [
+    -0.01254296804177256,
+    -0.0006877535030845674
+   ],
+   "better": 8,
+   "worse": 7,
+   "p": 0.1876220703125,
+   "p_holm": 0.75714111328125
+  },
+  {
+   "metric": "logloss",
+   "model": "LR",
+   "method": "temperature",
+   "mean_diff": -0.005839576601813539,
+   "median_diff": -0.0018874237830918128,
+   "ci": [
+    -0.011594087632167611,
+    -0.0014196250851349326
+   ],
+   "better": 9,
+   "worse": 6,
+   "p": 0.063720703125,
+   "p_holm": 0.38232421875
+  },
+  {
+   "metric": "logloss",
+   "model": "NB",
+   "method": "platt",
+   "mean_diff": -1.4599916088297138,
+   "median_diff": -0.35716720153385356,
+   "ci": [
+    -3.0484784892853347,
+    -0.43937082646739983
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "logloss",
+   "model": "NB",
+   "method": "isotonic",
+   "mean_diff": -1.439593044713048,
+   "median_diff": -0.3438874317280388,
+   "ci": [
+    -3.0348533691288266,
+    -0.41738733260618366
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "logloss",
+   "model": "NB",
+   "method": "beta",
+   "mean_diff": -1.4642077783618517,
+   "median_diff": -0.3556803768559808,
+   "ci": [
+    -3.0512287964467637,
+    -0.4450025311727561
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "logloss",
+   "model": "NB",
+   "method": "temperature",
+   "mean_diff": -1.3930277641112538,
+   "median_diff": -0.3490098787950702,
+   "ci": [
+    -2.9389668537999216,
+    -0.4151269915106291
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "logloss",
+   "model": "KNN",
+   "method": "platt",
+   "mean_diff": -0.023985457141406697,
+   "median_diff": -0.012497153663400151,
+   "ci": [
+    -0.042144121718227553,
+    -0.010241962763118992
+   ],
+   "better": 14,
+   "worse": 1,
+   "p": 0.0008544921875,
+   "p_holm": 0.008544921875
+  },
+  {
+   "metric": "logloss",
+   "model": "KNN",
+   "method": "isotonic",
+   "mean_diff": -0.013537622097338156,
+   "median_diff": -0.009751203943181797,
+   "ci": [
+    -0.033835230856519204,
+    0.002522780320270077
+   ],
+   "better": 9,
+   "worse": 6,
+   "p": 0.207763671875,
+   "p_holm": 0.75714111328125
+  },
+  {
+   "metric": "logloss",
+   "model": "KNN",
+   "method": "beta",
+   "mean_diff": -0.03331428689834815,
+   "median_diff": -0.01815613242535713,
+   "ci": [
+    -0.05418272985120962,
+    -0.01582349317107497
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "logloss",
+   "model": "KNN",
+   "method": "temperature",
+   "mean_diff": -0.012677099714081165,
+   "median_diff": -0.004538270951708889,
+   "ci": [
+    -0.021735184747509063,
+    -0.005073898156003576
+   ],
+   "better": 14,
+   "worse": 1,
+   "p": 0.00018310546875,
+   "p_holm": 0.00201416015625
+  },
+  {
+   "metric": "logloss",
+   "model": "RF",
+   "method": "platt",
+   "mean_diff": -0.03900635381100377,
+   "median_diff": -0.006150438906703748,
+   "ci": [
+    -0.08324380098638208,
+    -0.005542442816286351
+   ],
+   "better": 10,
+   "worse": 5,
+   "p": 0.02557373046875,
+   "p_holm": 0.20458984375
+  },
+  {
+   "metric": "logloss",
+   "model": "RF",
+   "method": "isotonic",
+   "mean_diff": 0.011153170392065443,
+   "median_diff": 0.02289981496527027,
+   "ci": [
+    -0.04065850218071082,
+    0.052863671620553054
+   ],
+   "better": 4,
+   "worse": 11,
+   "p": 0.1876220703125,
+   "p_holm": 0.75714111328125
+  },
+  {
+   "metric": "logloss",
+   "model": "RF",
+   "method": "beta",
+   "mean_diff": -0.03822651530105333,
+   "median_diff": -0.0070196735308271085,
+   "ci": [
+    -0.08304188004269043,
+    -0.004437095287250633
+   ],
+   "better": 9,
+   "worse": 6,
+   "p": 0.041259765625,
+   "p_holm": 0.288818359375
+  },
+  {
+   "metric": "logloss",
+   "model": "RF",
+   "method": "temperature",
+   "mean_diff": -0.034938595659289064,
+   "median_diff": -0.004244681660925731,
+   "ci": [
+    -0.076781232592808,
+    -0.004931049637862031
+   ],
+   "better": 12,
+   "worse": 3,
+   "p": 0.00836181640625,
+   "p_holm": 0.07525634765625
+  },
+  {
+   "metric": "logloss",
+   "model": "GB",
+   "method": "platt",
+   "mean_diff": -0.04705801617882886,
+   "median_diff": -0.03645449016432545,
+   "ci": [
+    -0.06890634472986246,
+    -0.027776749836695168
+   ],
+   "better": 14,
+   "worse": 1,
+   "p": 0.0001220703125,
+   "p_holm": 0.0015869140625
+  },
+  {
+   "metric": "logloss",
+   "model": "GB",
+   "method": "isotonic",
+   "mean_diff": -0.013485004133250277,
+   "median_diff": -0.012397566206969968,
+   "ci": [
+    -0.03502054957662021,
+    0.006836109472767956
+   ],
+   "better": 10,
+   "worse": 5,
+   "p": 0.15142822265625,
+   "p_holm": 0.75714111328125
+  },
+  {
+   "metric": "logloss",
+   "model": "GB",
+   "method": "beta",
+   "mean_diff": -0.04649186462764506,
+   "median_diff": -0.03635131075754072,
+   "ci": [
+    -0.0676211480709406,
+    -0.027695412475614446
+   ],
+   "better": 15,
+   "worse": 0,
+   "p": 6.103515625e-05,
+   "p_holm": 0.001220703125
+  },
+  {
+   "metric": "logloss",
+   "model": "GB",
+   "method": "temperature",
+   "mean_diff": -0.04117476256754464,
+   "median_diff": -0.027471753269882604,
+   "ci": [
+    -0.05970028858923212,
+    -0.024807365456541268
+   ],
+   "better": 14,
+   "worse": 1,
+   "p": 0.0001220703125,
+   "p_holm": 0.0015869140625
+  }
+ ],
+ "spearman": {
+  "brier|LR": [
+   -0.11796251359151783,
+   0.6754362035093059,
+   3
+  ],
+  "brier|NB": [
+   0.34495098671459,
+   0.20796674471099502,
+   9
+  ],
+  "brier|KNN": [
+   0.48972316248599823,
+   0.06388674568995915,
+   11
+  ],
+  "brier|RF": [
+   -0.6273460950094357,
+   0.012298877474283732,
+   2
+  ],
+  "brier|GB": [
+   -0.7721182707808439,
+   0.0007434940632609764,
+   1
+  ],
+  "logloss|LR": [
+   -0.6648796220612823,
+   0.006842733266930713,
+   0
+  ],
+  "logloss|NB": [
+   -0.2859697299188311,
+   0.30148525980639435,
+   3
+  ],
+  "logloss|KNN": [
+   -0.2859697299188311,
+   0.30148525980639435,
+   5
+  ],
+  "logloss|RF": [
+   -0.6630923112492897,
+   0.007048826640506841,
+   0
+  ],
+  "logloss|GB": [
+   -0.7864167572767855,
+   0.0005064736048685318,
+   0
+  ]
+ }
+}

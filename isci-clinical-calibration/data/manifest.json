@@ -1,0 +1,77 @@
+{
+  "17": {
+    "url": "https://archive.ics.uci.edu/static/public/17/breast+cancer+wisconsin+diagnostic.zip",
+    "bytes": 51284,
+    "sha256": "bc154869ef13f753f9e2b5a17e248cfe1ba4b6721db7c4da9f4880e40b05d3af"
+  },
+  "45": {
+    "url": "https://archive.ics.uci.edu/static/public/45/heart+disease.zip",
+    "bytes": 128894,
+    "sha256": "b17cd273da9ce1caa4710fce80227ea454d4dbf9fcbc8e6a9121672751563adc"
+  },
+  "519": {
+    "url": "https://archive.ics.uci.edu/static/public/519/heart+failure+clinical+records.zip",
+    "bytes": 12421,
+    "sha256": "f0739603e2f9573ffc7d509573cbf9bcb4cc889e4eea0f35a75bec68fc9163d7"
+  },
+  "225": {
+    "url": "https://archive.ics.uci.edu/static/public/225/ilpd+indian+liver+patient+dataset.zip",
+    "bytes": 23931,
+    "sha256": "60e18fbfe7f84daf58c178ea280ba5fe8db7e2507aabce01b57425b3b822cf0b"
+  },
+  "43": {
+    "url": "https://archive.ics.uci.edu/static/public/43/haberman+s+survival.zip",
+    "bytes": 1844,
+    "sha256": "1001bac29022350e279b064003c426c8ed60f4d76ab4916fb05baf886c8e3ac7"
+  },
+  "176": {
+    "url": "https://archive.ics.uci.edu/static/public/176/blood+transfusion+service+center.zip",
+    "bytes": 3938,
+    "sha256": "95c39e2e05972bdc8a9c6fe521184cc8284578885d5b3e0c553d3f7dd9543221"
+  },
+  "161": {
+    "url": "https://archive.ics.uci.edu/static/public/161/mammographic+mass.zip",
+    "bytes": 4745,
+    "sha256": "4c5158166aa7f1503e14d95be4c95fe66a734474f614441ede226314b93db6e7"
+  },
+  "212": {
+    "url": "https://archive.ics.uci.edu/static/public/212/vertebral+column.zip",
+    "bytes": 33251,
+    "sha256": "899ed1d137ceb4c36d59fa35f3cbab39ec3b78fd3ca1fdaf2fae155459c1372f"
+  },
+  "329": {
+    "url": "https://archive.ics.uci.edu/static/public/329/diabetic+retinopathy+debrecen.zip",
+    "bytes": 47634,
+    "sha256": "64ee2dbaffc69dab77cc0fb7458fa93cb21a20f15938cafacdc195a5e2226b2c"
+  },
+  "193": {
+    "url": "https://archive.ics.uci.edu/static/public/193/cardiotocography.zip",
+    "bytes": 338866,
+    "sha256": "ba2853564e282779907242b7bd8a83265d9fc4e79bb008573967daa16677bb6c"
+  },
+  "529": {
+    "url": "https://archive.ics.uci.edu/static/public/529/early+stage+diabetes+risk+prediction+dataset.zip",
+    "bytes": 34828,
+    "sha256": "67594c0f11257688b57493798e70737b7156ba37a2e6ac75507ae3a35221a388"
+  },
+  "96": {
+    "url": "https://archive.ics.uci.edu/static/public/96/spectf+heart.zip",
+    "bytes": 25866,
+    "sha256": "24409e8bd112d372ec993304f029d61e5d2daa2de091399e2c3f84eed4f021ce"
+  },
+  "15": {
+    "url": "https://archive.ics.uci.edu/static/public/15/breast+cancer+wisconsin+original.zip",
+    "bytes": 86541,
+    "sha256": "3f91e49bceb30c0de8ea988344357236f26ed8bd536415ac594226015b6fd84d"
+  },
+  "277": {
+    "url": "https://archive.ics.uci.edu/static/public/277/thoracic+surgery+data.zip",
+    "bytes": 24363,
+    "sha256": "b0e39b9301dff4e38333eedc500d647d0b68870cec1d4edf02b1c05c0bdf7786"
+  },
+  "46": {
+    "url": "https://archive.ics.uci.edu/static/public/46/hepatitis.zip",
+    "bytes": 6235,
+    "sha256": "8573c2898714fb32ef8162291dcabd483a1ba9701123cab262f5acace3112d87"
+  }
+}

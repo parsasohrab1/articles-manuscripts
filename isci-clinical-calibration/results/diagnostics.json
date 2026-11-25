@@ -1,0 +1,20 @@
+{
+ "LR": {
+  "clipped": 1356,
+  "total": 83450,
+  "negative_slope": 0,
+  "folds": 750
+ },
+ "NB": {
+  "clipped": 31084,
+  "total": 83450,
+  "negative_slope": 26,
+  "folds": 750
+ },
+ "KNN": {
+  "clipped": 25423,
+  "total": 83450,
+  "negative_slope": 2,
+  "folds": 750
+ }
+}

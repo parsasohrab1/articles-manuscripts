@@ -1,0 +1,37 @@
+[
+ {
+  "file": "fig1_graphical_abstract.png",
+  "caption": "Graphical abstract of the study.",
+  "spec": "Vector-style flow diagram, four boxes left to right, 10 x 2.6 in, 300 dpi, navy/teal/orange/red borders."
+ },
+ {
+  "file": "fig2_protocol.png",
+  "caption": "Nested evaluation protocol used for every data set, classifier and calibrator.",
+  "spec": "Flow diagram, five boxes left to right, 10 x 2.4 in, 300 dpi."
+ },
+ {
+  "file": "fig3_brier_change.png",
+  "caption": "Mean paired change in Brier score over 15 data sets with 95% bootstrap intervals. Green: Holm-adjusted p < 0.05; grey: not significant. Horizontal scales differ between panels.",
+  "spec": "Five-panel forest plot (one panel per classifier), 10 x 2.8 in, 300 dpi; points are means, lines are percentile bootstrap intervals; zero line in black."
+ },
+ {
+  "file": "fig4_brier_by_dataset.png",
+  "caption": "Change in Brier score against no calibration for every data set (blue: calibration helps).",
+  "spec": "Heat map, 15 data sets (sorted by number of events, in brackets) by 20 classifier-calibrator pairs, diverging red-blue map clipped at ±0.03, 10 x 5 in, 300 dpi."
+ },
+ {
+  "file": "fig5_logloss_by_dataset.png",
+  "caption": "Change in log loss against no calibration for every data set (blue: calibration helps).",
+  "spec": "Heat map, 15 data sets (sorted by number of events, in brackets) by 20 classifier-calibrator pairs, diverging red-blue map clipped at ±0.15, 10 x 5 in, 300 dpi."
+ },
+ {
+  "file": "fig6_ranks.png",
+  "caption": "Mean rank of the five options over 15 data sets (lower is better).",
+  "spec": "Grouped bar chart, two panels (Brier score, log loss), five classifiers by five options, 10 x 3.2 in, 300 dpi."
+ },
+ {
+  "file": "fig7_events.png",
+  "caption": "Difference between isotonic and Platt Brier scores against the number of events; points below the red line favour isotonic regression.",
+  "spec": "Five scatter panels, logarithmic horizontal axis, Spearman correlation in each title, 10 x 2.6 in, 300 dpi."
+ }
+]

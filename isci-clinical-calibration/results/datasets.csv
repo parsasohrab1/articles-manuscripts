@@ -1,0 +1,16 @@
+dataset,uci,n_raw,n,features,events,missing,event
+WDBC,17,569,569,30,212,0,malignant tumour
+Cleveland,45,303,303,13,139,6,coronary disease
+HeartFailure,519,299,299,11,96,0,death during follow-up
+ILPD,225,583,570,10,406,4,liver patient
+Haberman,43,306,289,3,79,0,death within five years
+Transfusion,176,748,533,4,149,0,donated in March 2007
+Mammographic,161,961,608,4,271,150,malignant mass
+Vertebral,212,310,310,6,210,0,abnormal spine
+Retinopathy,329,1151,1146,19,606,0,signs of retinopathy
+CTG,193,2126,2112,21,466,0,suspect or pathological trace
+EarlyDiabetes,529,520,251,16,173,0,diabetes
+SPECTF,96,267,267,44,212,0,class 1 of the source file
+WBC-Original,15,699,463,9,238,14,malignant
+Thoracic,277,470,470,24,70,0,death within one year
+Hepatitis,46,155,155,19,32,167,death
