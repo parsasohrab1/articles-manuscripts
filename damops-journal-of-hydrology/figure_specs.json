@@ -1,0 +1,65 @@
+[
+ {
+  "file": "fig1_graphical_abstract.png",
+  "px": "1340 x 600",
+  "size_mm": "170 x 76",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kind": "graphical abstract",
+  "kb": 24
+ },
+ {
+  "file": "fig2_method_flowchart.png",
+  "px": "1340 x 1080",
+  "size_mm": "170 x 137",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kind": "detailed flowchart",
+  "kb": 38
+ },
+ {
+  "file": "fig3_time_split.png",
+  "px": "1340 x 480",
+  "size_mm": "170 x 61",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kind": "timeline chart",
+  "kb": 12
+ },
+ {
+  "file": "fig4_cost.png",
+  "px": "1340 x 600",
+  "size_mm": "170 x 76",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kind": "grouped bar chart",
+  "kb": 15
+ },
+ {
+  "file": "fig5_reliability_flood.png",
+  "px": "1340 x 919",
+  "size_mm": "170 x 117",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kind": "grouped bar charts",
+  "kb": 24
+ },
+ {
+  "file": "fig6_coverage_closure.png",
+  "px": "1340 x 560",
+  "size_mm": "170 x 71",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kind": "bar charts",
+  "kb": 16
+ },
+ {
+  "file": "fig7_clipped_months.png",
+  "px": "1340 x 560",
+  "size_mm": "170 x 71",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kind": "grouped bar chart",
+  "kb": 16
+ }
+]
