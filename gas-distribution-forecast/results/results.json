@@ -1,0 +1,296 @@
+{
+ "test_period": [
+  "2024-01-01",
+  "2025-12-31"
+ ],
+ "zones": {
+  "NL_L": {
+   "data": {
+    "label": "Netherlands, local distribution, L-gas",
+    "first_day": "2022-07-01",
+    "calendar_days": 1280,
+    "valid_days": 1280,
+    "duplicate_records": 0,
+    "non_positive": 0,
+    "outliers_removed": 0,
+    "provisional_share_pct": 15.5,
+    "mean_gwh": 348.4,
+    "min_gwh": 84.8,
+    "max_gwh": 1143.3
+   },
+   "test_days": 731,
+   "test_mean_gwh": 355.2,
+   "best_model": "random forest",
+   "metrics": {
+    "previous day": {
+     "mae_gwh": 39.05,
+     "rmse_gwh": 56.26,
+     "mape_pct": 11.85,
+     "bias_gwh": -0.32,
+     "skill_vs_previous_day_pct": 0.0,
+     "mae_minus_previous_day_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "previous week": {
+     "mae_gwh": 85.52,
+     "rmse_gwh": 130.59,
+     "mape_pct": 23.72,
+     "bias_gwh": -2.93,
+     "skill_vs_previous_day_pct": -119.0,
+     "mae_minus_previous_day_ci": [
+      34.988,
+      58.556
+     ]
+    },
+    "ridge": {
+     "mae_gwh": 23.88,
+     "rmse_gwh": 31.65,
+     "mape_pct": 8.62,
+     "bias_gwh": 1.6,
+     "skill_vs_previous_day_pct": 38.8,
+     "mae_minus_previous_day_ci": [
+      -18.858,
+      -11.502
+     ]
+    },
+    "random forest": {
+     "mae_gwh": 20.5,
+     "rmse_gwh": 29.69,
+     "mape_pct": 6.41,
+     "bias_gwh": 0.7,
+     "skill_vs_previous_day_pct": 47.5,
+     "mae_minus_previous_day_ci": [
+      -21.701,
+      -15.481
+     ]
+    },
+    "gradient boosting": {
+     "mae_gwh": 21.49,
+     "rmse_gwh": 30.47,
+     "mape_pct": 6.71,
+     "bias_gwh": 1.95,
+     "skill_vs_previous_day_pct": 45.0,
+     "mae_minus_previous_day_ci": [
+      -20.77,
+      -14.315
+     ]
+    }
+   },
+   "ablation_mae_gwh": {
+    "full": 20.5,
+    "past temperature only": 35.17,
+    "no temperature": 35.42,
+    "demand known only to two days before": 33.23
+   },
+   "margin": {
+    "previous day": {
+     "mean_margin_gwh": 88.7,
+     "coverage_pct": 91.1,
+     "margin_share_of_mean_demand_pct": 27.5,
+     "days": 641
+    },
+    "random forest": {
+     "mean_margin_gwh": 50.9,
+     "coverage_pct": 91.6,
+     "margin_share_of_mean_demand_pct": 15.8,
+     "days": 641
+    }
+   },
+   "temperature_correlation": -0.94
+  },
+  "BE_H": {
+   "data": {
+    "label": "Belgium, distribution, H-gas",
+    "first_day": "2022-01-01",
+    "calendar_days": 1461,
+    "valid_days": 1459,
+    "duplicate_records": 0,
+    "non_positive": 0,
+    "outliers_removed": 0,
+    "provisional_share_pct": 0.1,
+    "mean_gwh": 187.1,
+    "min_gwh": 37.2,
+    "max_gwh": 557.7
+   },
+   "test_days": 723,
+   "test_mean_gwh": 213.6,
+   "best_model": "random forest",
+   "metrics": {
+    "previous day": {
+     "mae_gwh": 19.43,
+     "rmse_gwh": 27.65,
+     "mape_pct": 9.86,
+     "bias_gwh": -0.31,
+     "skill_vs_previous_day_pct": 0.0,
+     "mae_minus_previous_day_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "previous week": {
+     "mae_gwh": 44.28,
+     "rmse_gwh": 67.05,
+     "mape_pct": 20.55,
+     "bias_gwh": -2.25,
+     "skill_vs_previous_day_pct": -128.0,
+     "mae_minus_previous_day_ci": [
+      18.772,
+      31.371
+     ]
+    },
+    "ridge": {
+     "mae_gwh": 12.74,
+     "rmse_gwh": 16.97,
+     "mape_pct": 7.14,
+     "bias_gwh": -5.64,
+     "skill_vs_previous_day_pct": 34.4,
+     "mae_minus_previous_day_ci": [
+      -8.122,
+      -5.226
+     ]
+    },
+    "random forest": {
+     "mae_gwh": 10.59,
+     "rmse_gwh": 15.27,
+     "mape_pct": 5.26,
+     "bias_gwh": -2.22,
+     "skill_vs_previous_day_pct": 45.5,
+     "mae_minus_previous_day_ci": [
+      -10.26,
+      -7.496
+     ]
+    },
+    "gradient boosting": {
+     "mae_gwh": 10.87,
+     "rmse_gwh": 15.62,
+     "mape_pct": 5.41,
+     "bias_gwh": -3.99,
+     "skill_vs_previous_day_pct": 44.1,
+     "mae_minus_previous_day_ci": [
+      -10.023,
+      -7.159
+     ]
+    }
+   },
+   "ablation_mae_gwh": {
+    "full": 10.59,
+    "past temperature only": 17.06,
+    "no temperature": 17.15,
+    "demand known only to two days before": 19.59
+   },
+   "margin": {
+    "previous day": {
+     "mean_margin_gwh": 47.3,
+     "coverage_pct": 91.3,
+     "margin_share_of_mean_demand_pct": 23.5,
+     "days": 633
+    },
+    "random forest": {
+     "mean_margin_gwh": 26.8,
+     "coverage_pct": 91.6,
+     "margin_share_of_mean_demand_pct": 13.3,
+     "days": 633
+    }
+   },
+   "temperature_correlation": -0.908
+  },
+  "IT": {
+   "data": {
+    "label": "Italy, distribution",
+    "first_day": "2022-01-01",
+    "calendar_days": 1461,
+    "valid_days": 1461,
+    "duplicate_records": 0,
+    "non_positive": 0,
+    "outliers_removed": 0,
+    "provisional_share_pct": 2.8,
+    "mean_gwh": 792.0,
+    "min_gwh": 173.4,
+    "max_gwh": 2240.4
+   },
+   "test_days": 731,
+   "test_mean_gwh": 783.6,
+   "best_model": "random forest",
+   "metrics": {
+    "previous day": {
+     "mae_gwh": 58.92,
+     "rmse_gwh": 85.34,
+     "mape_pct": 8.91,
+     "bias_gwh": -0.64,
+     "skill_vs_previous_day_pct": 0.0,
+     "mae_minus_previous_day_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "previous week": {
+     "mae_gwh": 104.96,
+     "rmse_gwh": 160.85,
+     "mape_pct": 13.08,
+     "bias_gwh": -2.48,
+     "skill_vs_previous_day_pct": -78.1,
+     "mae_minus_previous_day_ci": [
+      30.554,
+      62.696
+     ]
+    },
+    "ridge": {
+     "mae_gwh": 30.98,
+     "rmse_gwh": 42.56,
+     "mape_pct": 5.08,
+     "bias_gwh": 0.46,
+     "skill_vs_previous_day_pct": 47.4,
+     "mae_minus_previous_day_ci": [
+      -32.696,
+      -23.16
+     ]
+    },
+    "random forest": {
+     "mae_gwh": 24.24,
+     "rmse_gwh": 39.43,
+     "mape_pct": 3.0,
+     "bias_gwh": -0.74,
+     "skill_vs_previous_day_pct": 58.9,
+     "mae_minus_previous_day_ci": [
+      -39.138,
+      -30.351
+     ]
+    },
+    "gradient boosting": {
+     "mae_gwh": 25.56,
+     "rmse_gwh": 41.26,
+     "mape_pct": 3.18,
+     "bias_gwh": -1.2,
+     "skill_vs_previous_day_pct": 56.6,
+     "mae_minus_previous_day_ci": [
+      -38.043,
+      -28.587
+     ]
+    }
+   },
+   "ablation_mae_gwh": {
+    "full": 24.24,
+    "past temperature only": 30.47,
+    "no temperature": 31.52,
+    "demand known only to two days before": 39.7
+   },
+   "margin": {
+    "previous day": {
+     "mean_margin_gwh": 157.0,
+     "coverage_pct": 93.1,
+     "margin_share_of_mean_demand_pct": 22.2,
+     "days": 641
+    },
+    "random forest": {
+     "mean_margin_gwh": 62.6,
+     "coverage_pct": 89.9,
+     "margin_share_of_mean_demand_pct": 8.8,
+     "days": 641
+    }
+   },
+   "temperature_correlation": -0.897
+  }
+ }
+}

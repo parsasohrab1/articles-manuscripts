@@ -1,0 +1,352 @@
+[
+ {
+  "file": "23099351/ESP01002MS005_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 389528,
+  "sha256": "141dec7e4a05d4ed9f4cb7eb9a0e734e9d345348eb234b91e2e51939eec3063f"
+ },
+ {
+  "file": "23099351/ESP01002SS015_Electric_meter_amps.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 296069,
+  "sha256": "a070655ed56940192d3c78af74319467ae96dc834d4fbc11be44079b227acb43"
+ },
+ {
+  "file": "23099351/ESP01001AC006_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 316859,
+  "sha256": "9275fe67ecdca55c6be3dd9daaf5778d0c0595ff359de4d0ea9171a677667c09"
+ },
+ {
+  "file": "23099351/ESP01000MS003_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 454297,
+  "sha256": "b3a2bc51b91b563c2881f78eef019805b87c4acb7d4083767a9e0d5daa03cae9"
+ },
+ {
+  "file": "23099351/ESP01004AC008_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 408649,
+  "sha256": "0b60615819e026cc742b4b4e4b5337916e33416c82c6b5486df696a0cdf4cdcb"
+ },
+ {
+  "file": "23099351/ESP01004MS009_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 495371,
+  "sha256": "10a4ae0d32ea3e48737aea517f1a2ec7be3cfc6810f58bbbe18050565a6914ef"
+ },
+ {
+  "file": "23099351/ESP01000MS003_Sensor_luminance.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 633667,
+  "sha256": "823835e7c5920fdc3dab2efd367d6d15599c89fba143ad6e2bd565a28faf6638"
+ },
+ {
+  "file": "23099351/ESP01002SS015_Electric_meter_kWh.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 163091,
+  "sha256": "f7c3295278d3764e06b16c7236ab0b64ed67fb41228cb5d847b1bba8a5e73287"
+ },
+ {
+  "file": "23099351/ESP01002AC004_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 462696,
+  "sha256": "41d0053fe97a8ad87ee4327d7c3a326a9e44180dd2e5cd92b9b040d964fdc3f1"
+ },
+ {
+  "file": "23099351/ESP01004MS009_Sensor_luminance.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 302532,
+  "sha256": "44edcf177cb02815229cebdf5e94a4489d98700de67f5420ddb476aaf34aae44"
+ },
+ {
+  "file": "23099351/ESP01000SS013_Electric_meter_kWh.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 318546,
+  "sha256": "f3fb784c77d864ba13de96ea515efd5908e2bcaba7b9a1b05491da5e5068e652"
+ },
+ {
+  "file": "23099351/ESP01000SS013_Electric_meter_amps.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 619624,
+  "sha256": "f6794c631780d5b7208189002afc81ccf902b92df0624359ef867389bef031e3"
+ },
+ {
+  "file": "23099351/ESP01001MS007_Sensor_relative_humidity.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 130791,
+  "sha256": "c2bcc4ff95f2f5335c6dfd2f28c5945c30bde69e1ff05534a541cbbcf61d7584"
+ },
+ {
+  "file": "23099351/ESP01001MS007_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 501885,
+  "sha256": "cb969d190eb978164febd48d7652c50366e5d86d3a8c509d57af820e8b1dbafc"
+ },
+ {
+  "file": "23099351/ESP01003SS017_Electric_meter_amps.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 535816,
+  "sha256": "2de1cf9c4f89614657b090707f46b2bde72d50b0fd01c5a2c65f3b1fa5212934"
+ },
+ {
+  "file": "23099351/ESP01004MS009_Sensor_relative_humidity.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 168986,
+  "sha256": "4669b577def030e7421c41c82aecdd788dfed0e139a61fb5e8269ed477a3d0c1"
+ },
+ {
+  "file": "23099351/ESP01001MS007_Sensor_luminance.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 295992,
+  "sha256": "5d3d008ed5c7c0c0f2cd997cea610552f151a24821a5538685e1fb4558b8672f"
+ },
+ {
+  "file": "23099351/ESP01002SS015_Electric_meter_watts.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 741048,
+  "sha256": "e9c81291070cd682841cc2b3a4bb6a583a750ba06920578e6575643b78017441"
+ },
+ {
+  "file": "23099351/ESP01003MS011_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 413816,
+  "sha256": "5edd64d4898021f33cf1c46bf518b0761aab83e24f65ec70c02465e9b9795d80"
+ },
+ {
+  "file": "23099351/ESP01000MS003_Sensor_relative_humidity.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 158871,
+  "sha256": "2f8402f97db8f26e3ae06cd8f41d6a2bd7e3b69a2e9fe3a95a1d7b2525c59907"
+ },
+ {
+  "file": "23099351/ESP01002MS005_Sensor_luminance.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 249093,
+  "sha256": "19bafedaf569bb1e30b5b9384cd7b4fa1e936dd13ae354f09b9493a0acab5118"
+ },
+ {
+  "file": "23099351/ESP01000AC002_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 310707,
+  "sha256": "56191a04f0ec9979537c96a2dd7da9ffc455d207d43341c23f2a4e632bb0def2"
+ },
+ {
+  "file": "23099351/ESP01003MS011_Sensor_relative_humidity.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 118832,
+  "sha256": "0f4ce45a175af6f4e0b98967265be40a65ff7b054885e2df0938da58c238b3b2"
+ },
+ {
+  "file": "23099351/ESP01000SS013_Electric_meter_watts.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 1443762,
+  "sha256": "d94e6109ed95572b53039b10e5e2e0fec1a59a296a731461e65397cbeae8577c"
+ },
+ {
+  "file": "23099351/ESP01002MS005_Sensor_relative_humidity.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 151384,
+  "sha256": "d172a9bdc196cffc888ea4bb4beb8c1bde8f8f94b538d95f4fcee2be4198f3db"
+ },
+ {
+  "file": "23099351/ESP01003AC010_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 261410,
+  "sha256": "9cd24c143f783e8463c6b9a295289406bb005e322ff3989904e68b2545fd2a4f"
+ },
+ {
+  "file": "23099351/ESP01003MS011_Sensor_luminance.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 657825,
+  "sha256": "c652137f2cc5d5916a2a3162520c69306899fe5058fd1f6cf7a334d192f2e3b6"
+ },
+ {
+  "file": "23099351/ESP01003SS017_Electric_meter_kWh.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 212752,
+  "sha256": "32ea8ccae5c1f4bf224cf01ff80a8fd5535cc8177e0b2cd70959d4fec17b29e7"
+ },
+ {
+  "file": "23099351/ESP01003SS017_Electric_meter_watts.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099351",
+  "licence": "CC-BY-4.0",
+  "bytes": 1448049,
+  "sha256": "9faa1cfc14ac4a3ca659d5390bd7bde9acd05e5a14b56dbc9de49def9c431b45"
+ },
+ {
+  "file": "23099489/ESP03002AC006_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 47093,
+  "sha256": "6e969c1e7b10299550f7c7aa412c826a7e1a62584e3fbc325d57169bacfff033"
+ },
+ {
+  "file": "23099489/ESP03000SS010_Electric_meter_amps.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 984748,
+  "sha256": "6b5b14cd5ac25195e47c4ddd75a7e07d84339b7e889d16b26b87362c9e9a938d"
+ },
+ {
+  "file": "23099489/ESP03001SS009_Electric_meter_kWh.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 241615,
+  "sha256": "66e80d515111db7e2f0197754841aba5ec64da3a1e661ea2f4cb6aef5e57e02e"
+ },
+ {
+  "file": "23099489/ESP03000MS004_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 73332,
+  "sha256": "7722241e529e35ac6db0b3767d777a9f5c8947eb52bc6ce052dcea7722155b9c"
+ },
+ {
+  "file": "23099489/ESP03002MS007_Sensor_luminance.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 6974,
+  "sha256": "a9ecbad9e8299f63261b788274dd93b780ae476c1922ff65eb3888cfdb3b7fa6"
+ },
+ {
+  "file": "23099489/ESP03002MS007_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 6988,
+  "sha256": "3d11d65341870935e858ad44e808d60dbdb4d6b5bad04275911b60ddce24383f"
+ },
+ {
+  "file": "23099489/ESP03002MS007_Sensor_relative_humidity.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 2534,
+  "sha256": "caa6ed95877bb1b6af1f78bac80a5300f5b6dd55999741e589d0db876bdfe1d0"
+ },
+ {
+  "file": "23099489/ESP03000MS004_Sensor_relative_humidity.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 18914,
+  "sha256": "3d1cd81c2a83c778537097468146809e94fb031aa390baaf0f07f90ccbedffa1"
+ },
+ {
+  "file": "23099489/ESP03000AC005_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 188342,
+  "sha256": "327b8a7f200f193c87e7d7228bf0ce0e1f4578891b9efe82103302fbe9b86feb"
+ },
+ {
+  "file": "23099489/ESP03001SS009_Electric_meter_amps.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 810418,
+  "sha256": "5865be6a3ecbc90311ae142e6e8b5dd864d2b71302c82186812ba5770eaf2ca6"
+ },
+ {
+  "file": "23099489/ESP03001SS009_Electric_meter_watts.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 2925945,
+  "sha256": "54fba9406a63340490caeb06a15c527d1f23069b1c66bb18f68f452f839459c8"
+ },
+ {
+  "file": "23099489/ESP03001MS003_Sensor_relative_humidity.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 17510,
+  "sha256": "33aa9a4d0cc7d7bd974fbc5a24e59248e707f37eab23cfbc92ab24cc34a34628"
+ },
+ {
+  "file": "23099489/ESP03000SS010_Electric_meter_watts.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 2337274,
+  "sha256": "9e2de202a09ea88eab3f52d3ebab70564d5a7e03afc83b6cd686177531836c4d"
+ },
+ {
+  "file": "23099489/ESP03002SS008_Electric_meter_kWh.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 92315,
+  "sha256": "f1f6afac506a0337a467364c812dae8e2916ea85d2b11c089339e3ad001a356b"
+ },
+ {
+  "file": "23099489/ESP03000MS004_Sensor_luminance.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 490,
+  "sha256": "f76f1148591a2c130ec591f3cfb2b4b0a4bcb94f54afdd77590115e08184ec66"
+ },
+ {
+  "file": "23099489/ESP03000SS010_Electric_meter_kWh.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 353907,
+  "sha256": "248305998d4ddb6eedffecf8facd9111dfada27b0db3f7667c1f8c5ae8fc59dc"
+ },
+ {
+  "file": "23099489/ESP03001MS003_Sensor_luminance.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 473,
+  "sha256": "4b19d0f828bb20387b7597b66c1b7d63e0d39353ece758b366b812ed60eb478d"
+ },
+ {
+  "file": "23099489/ESP03001MS003_Sensor_temperature.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 60707,
+  "sha256": "8d03fe2962eed1c1bcb3dc3868c343f482ff758d99455e3c299171ebd228996b"
+ },
+ {
+  "file": "23099489/ESP03002SS008_Electric_meter_amps.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 1094571,
+  "sha256": "513cdb4a8e16b690b9eda8504ce179a519d202f22773f3b4cdf5081369e04560"
+ },
+ {
+  "file": "23099489/ESP03002SS008_Electric_meter_watts.csv",
+  "source": "https://doi.org/10.5281/zenodo.23099489",
+  "licence": "CC-BY-4.0",
+  "bytes": 120437,
+  "sha256": "b107048244740e93bf2fc4b3ede76e1f43bf145c3bdc804364c9c3661ff055e9"
+ },
+ {
+  "file": "nasa_t2m_fornes_hourly_2025.csv",
+  "source": "https://power.larc.nasa.gov/api/temporal/hourly/point?parameters=T2M&community=RE&latitude=36.94&longitude=-3.86&start=20250101&end=20251231&format=CSV&time-standard=UTC",
+  "licence": "NASA POWER, open data",
+  "bytes": 159950,
+  "sha256": "2840cf61697f0d94747777bcf2c0278fd9c0ff3748d538f76c5df7cea453964c"
+ }
+]

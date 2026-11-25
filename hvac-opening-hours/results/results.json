@@ -1,0 +1,258 @@
+{
+ "settings": {
+  "period": [
+   "2025-06-01",
+   "2025-12-31"
+  ],
+  "standby_threshold_w": 20.0,
+  "max_plausible_w": 6000.0,
+  "max_hold_minutes": 30,
+  "min_day_coverage": 0.8,
+  "meters_used": [
+   "ESP01000SS013",
+   "ESP01002SS015",
+   "ESP01003SS017",
+   "ESP03000SS010",
+   "ESP03001SS009"
+  ]
+ },
+ "meters": {
+  "ESP01000SS013": {
+   "building": "Town hall",
+   "records": 53310,
+   "implausible_removed": 0,
+   "valid_days": 181,
+   "energy_kwh_valid_days": 123.5,
+   "counter_check_days": 181,
+   "integrated_over_counter": 1.011
+  },
+  "ESP01002SS015": {
+   "building": "Town hall",
+   "records": 27536,
+   "implausible_removed": 0,
+   "valid_days": 185,
+   "energy_kwh_valid_days": 45.0,
+   "counter_check_days": 185,
+   "integrated_over_counter": 1.035
+  },
+  "ESP01003SS017": {
+   "building": "Town hall",
+   "records": 53705,
+   "implausible_removed": 0,
+   "valid_days": 187,
+   "energy_kwh_valid_days": 91.3,
+   "counter_check_days": 187,
+   "integrated_over_counter": 1.013
+  },
+  "ESP03000SS010": {
+   "building": "Nursery",
+   "records": 86513,
+   "implausible_removed": 0,
+   "valid_days": 211,
+   "energy_kwh_valid_days": 221.5,
+   "counter_check_days": 211,
+   "integrated_over_counter": 1.003
+  },
+  "ESP03001SS009": {
+   "building": "Nursery",
+   "records": 108878,
+   "implausible_removed": 0,
+   "valid_days": 211,
+   "energy_kwh_valid_days": 123.6,
+   "counter_check_days": 211,
+   "integrated_over_counter": 1.009
+  },
+  "ESP03002SS008": {
+   "building": "Nursery",
+   "records": 4175,
+   "implausible_removed": 0,
+   "valid_days": 0,
+   "energy_kwh_valid_days": 0.0,
+   "counter_check_days": 0,
+   "integrated_over_counter": null
+  }
+ },
+ "buildings": {
+  "Town hall": {
+   "meters": [
+    "ESP01000SS013",
+    "ESP01002SS015",
+    "ESP01003SS017"
+   ],
+   "days": 176,
+   "energy_kwh": 253.0,
+   "mean_kwh_per_day": 1.44,
+   "standby_share_pct": 6.2,
+   "standby_share_ci": [
+    3.9,
+    11.3
+   ],
+   "weekend_share_pct": 5.9,
+   "night_00_06_active_share_pct": 4.9,
+   "windows": {
+    "07-15": {
+     "standby_cut_pct": 4.8,
+     "standby_cut_ci": [
+      3.1,
+      9.0
+     ],
+     "all_off_outside_pct": 45.4,
+     "all_off_outside_ci": [
+      32.5,
+      68.8
+     ],
+     "weekday_outside_pct": 39.5,
+     "weekend_pct": 5.9
+    },
+    "07-18": {
+     "standby_cut_pct": 4.1,
+     "standby_cut_ci": [
+      2.6,
+      7.8
+     ],
+     "all_off_outside_pct": 17.9,
+     "all_off_outside_ci": [
+      9.0,
+      33.9
+     ],
+     "weekday_outside_pct": 12.0,
+     "weekend_pct": 5.9
+    },
+    "07-22": {
+     "standby_cut_pct": 3.5,
+     "standby_cut_ci": [
+      2.2,
+      6.4
+     ],
+     "all_off_outside_pct": 13.3,
+     "all_off_outside_ci": [
+      6.2,
+      25.8
+     ],
+     "weekday_outside_pct": 7.4,
+     "weekend_pct": 5.9
+    }
+   },
+   "standby_threshold_sensitivity": {
+    "5": 4.9,
+    "10": 5.1,
+    "20": 6.2,
+    "50": 6.7
+   },
+   "runs": {
+    "count": 1486,
+    "median_h": 0.08,
+    "over_12h_count": 1,
+    "over_12h_energy_share_pct": 2.8,
+    "longest_h": 19.5
+   }
+  },
+  "Nursery": {
+   "meters": [
+    "ESP03000SS010",
+    "ESP03001SS009"
+   ],
+   "days": 211,
+   "energy_kwh": 345.1,
+   "mean_kwh_per_day": 1.64,
+   "standby_share_pct": 2.3,
+   "standby_share_ci": [
+    1.7,
+    3.4
+   ],
+   "weekend_share_pct": 6.8,
+   "night_00_06_active_share_pct": 2.7,
+   "windows": {
+    "07-15": {
+     "standby_cut_pct": 1.7,
+     "standby_cut_ci": [
+      1.3,
+      2.6
+     ],
+     "all_off_outside_pct": 41.0,
+     "all_off_outside_ci": [
+      28.4,
+      56.2
+     ],
+     "weekday_outside_pct": 34.2,
+     "weekend_pct": 6.8
+    },
+    "07-18": {
+     "standby_cut_pct": 1.5,
+     "standby_cut_ci": [
+      1.1,
+      2.3
+     ],
+     "all_off_outside_pct": 29.0,
+     "all_off_outside_ci": [
+      17.7,
+      42.0
+     ],
+     "weekday_outside_pct": 22.1,
+     "weekend_pct": 6.8
+    },
+    "07-22": {
+     "standby_cut_pct": 1.3,
+     "standby_cut_ci": [
+      0.9,
+      1.8
+     ],
+     "all_off_outside_pct": 10.3,
+     "all_off_outside_ci": [
+      2.2,
+      22.7
+     ],
+     "weekday_outside_pct": 3.5,
+     "weekend_pct": 6.8
+    }
+   },
+   "standby_threshold_sensitivity": {
+    "5": 2.0,
+    "10": 2.2,
+    "20": 2.3,
+    "50": 2.4
+   },
+   "runs": {
+    "count": 329,
+    "median_h": 0.5,
+    "over_12h_count": 1,
+    "over_12h_energy_share_pct": 3.1,
+    "longest_h": 16.8
+   }
+  }
+ },
+ "forecast": {
+  "Town hall": {
+   "test_days": 71,
+   "test_mean_kwh": 1.47,
+   "mae_kwh": {
+    "weekday mean": 1.74,
+    "last week": 1.13,
+    "ridge degree-day": 1.5,
+    "random forest": 1.48
+   },
+   "bias_kwh": {
+    "weekday mean": -0.58,
+    "last week": -0.05,
+    "ridge degree-day": -0.19,
+    "random forest": -0.37
+   }
+  },
+  "Nursery": {
+   "test_days": 122,
+   "test_mean_kwh": 1.55,
+   "mae_kwh": {
+    "weekday mean": 1.88,
+    "last week": 1.33,
+    "ridge degree-day": 1.87,
+    "random forest": 1.8
+   },
+   "bias_kwh": {
+    "weekday mean": -0.05,
+    "last week": -0.06,
+    "ridge degree-day": -0.1,
+    "random forest": 0.04
+   }
+  }
+ }
+}

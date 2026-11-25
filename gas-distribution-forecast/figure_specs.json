@@ -1,0 +1,37 @@
+[
+ {
+  "file": "fig2_series.png",
+  "caption": "Daily offtake (colour, left axis) and temperature (grey, inverted right axis). The dashed line marks the start of the test period.",
+  "spec": "three stacked time-series panels with twin axes; 300 dpi PNG."
+ },
+ {
+  "file": "fig3_temperature.png",
+  "caption": "Offtake against temperature by zone; the title gives the Pearson correlation.",
+  "spec": "three scatter panels; weekdays and weekends in two colours; 300 dpi PNG."
+ },
+ {
+  "file": "fig1_pipeline.png",
+  "caption": "Study pipeline.",
+  "spec": "five-step left-to-right flow diagram; graphical abstract; 300 dpi PNG."
+ },
+ {
+  "file": "fig4_mape.png",
+  "caption": "Mean absolute percentage error by model and zone.",
+  "spec": "three horizontal bar panels with shared model order and value labels; 300 dpi PNG."
+ },
+ {
+  "file": "fig5_forecast.png",
+  "caption": "Measured offtake and random forest forecast in the test period.",
+  "spec": "three stacked line panels; measured in black; 300 dpi PNG."
+ },
+ {
+  "file": "fig6_ablation.png",
+  "caption": "Error relative to the full input set.",
+  "spec": "grouped bar chart, one colour per zone, dashed reference at 1; 300 dpi PNG."
+ },
+ {
+  "file": "fig7_margin.png",
+  "caption": "Margin through time (top) and coverage over the last 90 days (bottom). The dashed line marks 95 %.",
+  "spec": "two-row, three-column line panels; previous-day rule and random forest; 300 dpi PNG."
+ }
+]

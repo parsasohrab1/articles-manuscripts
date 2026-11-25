@@ -1,0 +1,37 @@
+[
+ {
+  "file": "fig2_coverage.png",
+  "caption": "Valid days per meter. One nursery meter has no day above the coverage limit and is excluded.",
+  "spec": "horizontal bar chart; one bar per meter; red dashed line at the 100-day inclusion limit; 300 dpi PNG."
+ },
+ {
+  "file": "fig1_pipeline.png",
+  "caption": "Study pipeline from raw measurements to savings bounds and baseline models.",
+  "spec": "five-step left-to-right flow diagram; graphical abstract; 300 dpi PNG."
+ },
+ {
+  "file": "fig3_daily.png",
+  "caption": "Daily HVAC electricity of the two buildings and daily mean outdoor temperature.",
+  "spec": "three stacked panels with shared date axis; bars for energy, line for temperature; 300 dpi PNG."
+ },
+ {
+  "file": "fig4_heatmap.png",
+  "caption": "Mean HVAC power by weekday and hour. Dotted lines mark the assumed window limits.",
+  "spec": "two heat maps, 7 rows by 24 columns, sequential yellow-orange-red scale in watts; 300 dpi PNG."
+ },
+ {
+  "file": "fig5_bounds.png",
+  "caption": "Savings bounds by assumed opening window. The red dashed line marks a 10 % target.",
+  "spec": "paired bar charts with asymmetric 95 % error bars; shared percentage axis; 300 dpi PNG."
+ },
+ {
+  "file": "fig6_standby.png",
+  "caption": "Distribution of HVAC power and sensitivity of the standby share to the threshold.",
+  "spec": "log-scale step histogram and line chart for 5, 10, 20 and 50 W thresholds; 300 dpi PNG."
+ },
+ {
+  "file": "fig7_forecast.png",
+  "caption": "Test error of the four predictors and the nursery test series.",
+  "spec": "grouped bar chart of mean absolute error beside a time series of measured and predicted daily energy; 300 dpi PNG."
+ }
+]

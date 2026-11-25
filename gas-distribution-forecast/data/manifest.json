@@ -1,0 +1,107 @@
+[
+ {
+  "file": "entsog_NL_L_2022.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=NL-TSO-0001&pointKey=DIS-00201&directionKey=exit&from=2022-01-01&to=2022-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 181315,
+  "sha256": "4ec2ddc09bd7b3c4790023a2ee2aaaae574d9f49f27ef9966a9be7d5d5a0979a"
+ },
+ {
+  "file": "entsog_NL_L_2023.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=NL-TSO-0001&pointKey=DIS-00201&directionKey=exit&from=2023-01-01&to=2023-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 358843,
+  "sha256": "160bcdb092e2c0af125d1eb37cb6a2443eb018984da4ecece7ce3597dcb2b0ea"
+ },
+ {
+  "file": "entsog_NL_L_2024.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=NL-TSO-0001&pointKey=DIS-00201&directionKey=exit&from=2024-01-01&to=2024-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 359119,
+  "sha256": "128bca098f0916e629992a0ed992a63cf3b0c50181abc260811f2103d4a0d80d"
+ },
+ {
+  "file": "entsog_NL_L_2025.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=NL-TSO-0001&pointKey=DIS-00201&directionKey=exit&from=2025-01-01&to=2025-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 357910,
+  "sha256": "5f87984579f689b3d4441ec790c8cba15393dc1b213755886bc4db86e68df0a3"
+ },
+ {
+  "file": "nasa_t2m_NL_L_daily.csv",
+  "source": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M&community=RE&latitude=52.1&longitude=5.18&start=20220101&end=20251231&format=CSV&time-standard=UTC",
+  "licence": "NASA POWER, open data",
+  "bytes": 24493,
+  "sha256": "9365721283e1dd1bcdfbe4f4bfb36312c9478ea49d533be4f9ce5eb3b6f7c758"
+ },
+ {
+  "file": "entsog_BE_H_2022.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=BE-TSO-0001&pointKey=DIS-00191&directionKey=exit&from=2022-01-01&to=2022-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 353994,
+  "sha256": "5bcd67b5ee60eb390322102881c8070d8c16f64160121644dea3d4e522477e00"
+ },
+ {
+  "file": "entsog_BE_H_2023.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=BE-TSO-0001&pointKey=DIS-00191&directionKey=exit&from=2023-01-01&to=2023-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 354117,
+  "sha256": "9264134f206785484d078f9944e9f925ff40fecd864d4a4e71119011be1ed8a9"
+ },
+ {
+  "file": "entsog_BE_H_2024.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=BE-TSO-0001&pointKey=DIS-00191&directionKey=exit&from=2024-01-01&to=2024-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 355127,
+  "sha256": "2401b53ace17157bc871a8d5f25cf886b8abe068d5550f7d5f2c0efea1f0866f"
+ },
+ {
+  "file": "entsog_BE_H_2025.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=BE-TSO-0001&pointKey=DIS-00191&directionKey=exit&from=2025-01-01&to=2025-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 352237,
+  "sha256": "dcc8916aac5636cad4b3f8838a27f37dccbf32a4a396e40b05337ffddeb64c3b"
+ },
+ {
+  "file": "nasa_t2m_BE_H_daily.csv",
+  "source": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M&community=RE&latitude=50.85&longitude=4.35&start=20220101&end=20251231&format=CSV&time-standard=UTC",
+  "licence": "NASA POWER, open data",
+  "bytes": 24547,
+  "sha256": "25ccb3684cc56251e66ef19b1271a59483fb75c1ad0ca1317f65a4adea7e1532"
+ },
+ {
+  "file": "entsog_IT_2022.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=IT-TSO-0001&pointKey=DIS-00005&directionKey=exit&from=2022-01-01&to=2022-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 405755,
+  "sha256": "372eb432120ca8a7144bbe651a8cd9b38bfeb11dafab8b05231d829b7ac18f5a"
+ },
+ {
+  "file": "entsog_IT_2023.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=IT-TSO-0001&pointKey=DIS-00005&directionKey=exit&from=2023-01-01&to=2023-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 359982,
+  "sha256": "8051f6ee3e4bb25f2113120df8426306c53206ff7fa9f4dc70273f8e04a3a2ea"
+ },
+ {
+  "file": "entsog_IT_2024.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=IT-TSO-0001&pointKey=DIS-00005&directionKey=exit&from=2024-01-01&to=2024-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 354504,
+  "sha256": "7a6b884a184c240ef5c89c0119e6eea94d361f412dc5d7a9ac16dd6ffbbebb12"
+ },
+ {
+  "file": "entsog_IT_2025.json",
+  "source": "https://transparency.entsog.eu/api/v1/operationalData?indicator=Physical%20Flow&operatorKey=IT-TSO-0001&pointKey=DIS-00005&directionKey=exit&from=2025-01-01&to=2025-12-31&periodType=day&timezone=CET&limit=-1",
+  "licence": "ENTSOG Transparency Platform, public",
+  "bytes": 351473,
+  "sha256": "0903cb43cdbbb88820d535caa74cfcff68edeecd7f99610c54aac3eef386c09a"
+ },
+ {
+  "file": "nasa_t2m_IT_daily.csv",
+  "source": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M&community=RE&latitude=45.46&longitude=9.19&start=20220101&end=20251231&format=CSV&time-standard=UTC",
+  "licence": "NASA POWER, open data",
+  "bytes": 24578,
+  "sha256": "a97531421a3c405732ee51bc03d39d46eb960fc1a9babab7d9d23a8a715abea4"
+ }
+]

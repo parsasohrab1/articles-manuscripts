@@ -34,3 +34,7 @@ Figures are drawn from the numbers in each manuscript; experiments were not re-r
 | stretchwatch-hf-reference | StretchWatch: Loss of the Hartree–Fock Reference along Bond-Stretching Curves, with Relevance to Quantum Energy Materials | s_icqe | 5 | 1832 | Draft for author review; not submitted |
 | terminals-inventory-conformal | Conformal Forecast Intervals for Crude-Oil Inventories: Weekly US Data as a Proxy for Terminal-Level Monitoring | s_jpse | 7 | 1860 | Draft for author review; not submitted |
 | wearshift-har-splits | Random Splits Overstate Wearable Activity Recognition: Per-Subject Accuracy on UCI HAR | s_npj | 5 | 1545 | Marked unsuccessful; revise before resubmission |
+| hvac-opening-hours | How much HVAC electricity is used outside opening hours (two public buildings, measured data) | s_els_control_engineering_practice | 7 | 1429 | Draft for author review; not submitted |
+| gas-distribution-forecast | Day-ahead forecasting of gas distribution offtake and the balancing margin | s_els_energy | 7 | 1278 | Draft for author review; not submitted |
+
+The folders `hvac-opening-hours` and `gas-distribution-forecast` also contain the downloaded public data, code and results, and were computed from that data. `venue-product-matching.md` lists proposals for venues without a product.
