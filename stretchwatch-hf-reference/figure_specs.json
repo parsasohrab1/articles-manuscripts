@@ -1,0 +1,62 @@
+[
+ {
+  "figure": 1,
+  "caption": "Graphical abstract: data, method and main finding.",
+  "file": "fig1.png",
+  "kind": "graphical abstract",
+  "px": "1340 x 459",
+  "size_mm": "170 x 58",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 14,
+  "source": "manuscript abstract"
+ },
+ {
+  "figure": 2,
+  "caption": "Processing steps of the study.",
+  "file": "fig2.png",
+  "kind": "flowchart",
+  "px": "1340 x 640",
+  "size_mm": "170 x 81",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 16,
+  "source": "manuscript method text"
+ },
+ {
+  "figure": 3,
+  "caption": "Evaluation design: what is compared and what is measured.",
+  "file": "fig3.png",
+  "kind": "design diagram",
+  "px": "1340 x 600",
+  "size_mm": "170 x 76",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 13,
+  "source": "manuscript method text"
+ },
+ {
+  "figure": 4,
+  "caption": "Hartree-Fock overlap near equilibrium and stretched",
+  "file": "fig4.png",
+  "kind": "bar chart",
+  "px": "1340 x 580",
+  "size_mm": "170 x 74",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 12,
+  "source": "manuscript Table 1"
+ },
+ {
+  "figure": 5,
+  "caption": "Scope of the evidence.",
+  "file": "fig5.png",
+  "kind": "scope diagram",
+  "px": "1340 x 450",
+  "size_mm": "170 x 57",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 14,
+  "source": "manuscript limitations"
+ }
+]

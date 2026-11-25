@@ -1,0 +1,86 @@
+[
+ {
+  "figure": 1,
+  "caption": "Graphical abstract: data, method and main finding.",
+  "file": "fig1.png",
+  "kind": "graphical abstract",
+  "px": "1340 x 459",
+  "size_mm": "170 x 58",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 13,
+  "source": "manuscript abstract"
+ },
+ {
+  "figure": 2,
+  "caption": "Processing steps of the study.",
+  "file": "fig2.png",
+  "kind": "flowchart",
+  "px": "1340 x 640",
+  "size_mm": "170 x 81",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 14,
+  "source": "manuscript method text"
+ },
+ {
+  "figure": 3,
+  "caption": "Evaluation design: what is compared and what is measured.",
+  "file": "fig3.png",
+  "kind": "design diagram",
+  "px": "1340 x 600",
+  "size_mm": "170 x 76",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 12,
+  "source": "manuscript method text"
+ },
+ {
+  "figure": 4,
+  "caption": "Local recalibration",
+  "file": "fig4.png",
+  "kind": "bar chart",
+  "px": "1340 x 604",
+  "size_mm": "170 x 77",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 20,
+  "source": "manuscript Table 2"
+ },
+ {
+  "figure": 5,
+  "caption": "Width of the reservoir-fraction interval",
+  "file": "fig5.png",
+  "kind": "bar chart",
+  "px": "1340 x 580",
+  "size_mm": "170 x 74",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 10,
+  "source": "values reported in the manuscript text"
+ },
+ {
+  "figure": 6,
+  "caption": "Coverage of the reservoir-fraction interval",
+  "file": "fig6.png",
+  "kind": "bar chart",
+  "px": "1340 x 580",
+  "size_mm": "170 x 74",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 11,
+  "source": "values reported in the manuscript text"
+ },
+ {
+  "figure": 7,
+  "caption": "Scope of the evidence.",
+  "file": "fig7.png",
+  "kind": "scope diagram",
+  "px": "1340 x 350",
+  "size_mm": "170 x 44",
+  "dpi": 200,
+  "format": "PNG (indexed colour)",
+  "kb": 10,
+  "source": "manuscript limitations"
+ }
+]
