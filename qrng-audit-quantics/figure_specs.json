@@ -1,0 +1,37 @@
+[
+ {
+  "file": "fig2_screen.png",
+  "caption": "Share of ones per file for two circuits with removed files and, for comparison, one without. The shaded band is the range accepted by the screen.",
+  "spec": "three scatter panels with shared vertical axis; markers for kept, stuck and repeated files; 300 dpi PNG."
+ },
+ {
+  "file": "fig1_pipeline.png",
+  "caption": "Study pipeline.",
+  "spec": "five-step left-to-right flow diagram; graphical abstract; 300 dpi PNG."
+ },
+ {
+  "file": "fig3_audit.png",
+  "caption": "Number of tests rejected per circuit before and after conditioning.",
+  "spec": "three annotated heat maps with shared rows; devices above and reference sources below the dividing line; 300 dpi PNG."
+ },
+ {
+  "file": "fig4_position.png",
+  "caption": "Share of ones by bit position modulo 8 for each device and circuit type.",
+  "spec": "three-by-three line panels with shared axes; Type 3 emphasised; 300 dpi PNG."
+ },
+ {
+  "file": "fig5_entropy.png",
+  "caption": "Min-entropy estimates per IBM circuit before and after conditioning; four points per device (Basic, Types 1 to 3).",
+  "spec": "two stacked scatter panels with three marker types and a reference band; 300 dpi PNG."
+ },
+ {
+  "file": "fig6_bias.png",
+  "caption": "Share of ones and mean lag-1 autocorrelation per data set.",
+  "spec": "three scatter panels with shared axes and dotted ideal values; 300 dpi PNG."
+ },
+ {
+  "file": "fig7_sensitivity.png",
+  "caption": "Flagged share against the number of strings drawn.",
+  "spec": "two line panels on a base-2 logarithmic axis; solid lines for the audit, dashed for the per-string rule; 300 dpi PNG."
+ }
+]

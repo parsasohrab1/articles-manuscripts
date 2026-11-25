@@ -1,0 +1,455 @@
+{
+ "strings": 6748,
+ "bits": 86540288,
+ "ibm_strings": 5340,
+ "ibm_bits": 75005952,
+ "screen": {
+  "stuck": 25,
+  "repeat": 3,
+  "by_circuit": {
+   "Belem|Basic_QRNG_Belem|stuck": 25,
+   "Nairobi|QRNG_Type_1_Nairobi|repeat": 3
+  },
+  "max_abs_dev_kept": 0.1903,
+  "min_abs_dev_removed": 0.2826
+ },
+ "screened_strings": 6720,
+ "screened_ibm_strings": 5312,
+ "screened_ibm_bits": 74776576,
+ "raw": {
+  "ibm_devices_unhealthy": 9,
+  "ibm_circuits_rejected": 33,
+  "ibm_circuits": 36,
+  "ibm_groups_rejected": 128,
+  "ibm_groups": 180,
+  "by_test": {
+   "frequency": 32,
+   "runs": 25,
+   "longest_run": 30,
+   "poker": 32,
+   "autocorrelation": 9
+  },
+  "clean_unhealthy": 0,
+  "biased_unhealthy": 6
+ },
+ "as_published": {
+  "ibm_devices_unhealthy": 9,
+  "ibm_circuits_rejected": 33,
+  "ibm_circuits": 36,
+  "ibm_groups_rejected": 129,
+  "ibm_groups": 180,
+  "by_test": {
+   "frequency": 32,
+   "runs": 25,
+   "longest_run": 30,
+   "poker": 32,
+   "autocorrelation": 10
+  },
+  "clean_unhealthy": 0,
+  "biased_unhealthy": 6
+ },
+ "as_published_naive": 20,
+ "as_published_device_frac_ones": {
+  "Belem": 0.477,
+  "Jakarta": 0.4808,
+  "Lagos": 0.5033,
+  "Lima": 0.4883,
+  "Manila": 0.4898,
+  "Nairobi": 0.4885,
+  "Oslo": 0.4991,
+  "Perth": 0.4856,
+  "Quito": 0.4763
+ },
+ "variant_ks": {
+  "ibm_devices_unhealthy": 9,
+  "ibm_circuits_rejected": 33,
+  "ibm_circuits": 36,
+  "ibm_groups_rejected": 127,
+  "ibm_groups": 180,
+  "by_test": {
+   "frequency": 32,
+   "runs": 26,
+   "longest_run": 31,
+   "poker": 32,
+   "autocorrelation": 6
+  },
+  "clean_unhealthy": 0,
+  "biased_unhealthy": 5
+ },
+ "variant_global_bh": {
+  "ibm_devices_unhealthy": 9,
+  "ibm_circuits_rejected": 33,
+  "ibm_circuits": 36,
+  "ibm_groups_rejected": 128,
+  "ibm_groups": 180,
+  "by_test": {
+   "frequency": 32,
+   "runs": 25,
+   "longest_run": 30,
+   "poker": 32,
+   "autocorrelation": 9
+  },
+  "clean_unhealthy": 0,
+  "biased_unhealthy": 6
+ },
+ "naive_sources_flagged": 20,
+ "sources": 20,
+ "vn_short_strings_dropped": 0,
+ "von_neumann": {
+  "ibm_devices_unhealthy": 8,
+  "ibm_circuits_rejected": 10,
+  "ibm_circuits": 36,
+  "ibm_groups_rejected": 32,
+  "ibm_groups": 180,
+  "by_test": {
+   "frequency": 9,
+   "runs": 8,
+   "longest_run": 7,
+   "poker": 6,
+   "autocorrelation": 2
+  },
+  "clean_unhealthy": 0,
+  "biased_unhealthy": 1
+ },
+ "von_neumann_ks": {
+  "ibm_devices_unhealthy": 8,
+  "ibm_circuits_rejected": 8,
+  "ibm_circuits": 36,
+  "ibm_groups_rejected": 32,
+  "ibm_groups": 180,
+  "by_test": {
+   "frequency": 8,
+   "runs": 7,
+   "longest_run": 7,
+   "poker": 6,
+   "autocorrelation": 4
+  },
+  "clean_unhealthy": 0,
+  "biased_unhealthy": 0
+ },
+ "ibm_raw": {
+  "frac_ones": [
+   0.4588,
+   0.487,
+   0.5171
+  ],
+  "lag1": [
+   -0.0723,
+   0.001,
+   0.01
+  ],
+  "h_mcv": [
+   0.8823,
+   0.9583,
+   0.996
+  ],
+  "h_markov": [
+   0.8819,
+   0.9562,
+   0.9975
+  ]
+ },
+ "clean_raw": {
+  "frac_ones": [
+   0.4994,
+   0.5003
+  ],
+  "h_mcv": [
+   0.9947,
+   0.996
+  ],
+  "h_markov": [
+   0.997,
+   0.9995
+  ]
+ },
+ "ibm_vn": {
+  "frac_ones": [
+   0.482,
+   0.5002,
+   0.5167
+  ],
+  "lag1": [
+   -0.0066,
+   -0.0012,
+   0.0633
+  ],
+  "h_mcv": [
+   0.9456,
+   0.9901,
+   0.9947
+  ],
+  "h_markov": [
+   0.8756,
+   0.9963,
+   0.9992
+  ]
+ },
+ "clean_vn": {
+  "frac_ones": [
+   0.4995,
+   0.5023
+  ],
+  "h_mcv": [
+   0.9863,
+   0.9927
+  ],
+  "h_markov": [
+   0.9909,
+   0.999
+  ]
+ },
+ "ibm_vn_yield": [
+  0.2472,
+  0.2494,
+  0.2646
+ ],
+ "ibm_vn_bits": 18710096,
+ "ibm_device_frac_ones": {
+  "Belem": 0.4781,
+  "Jakarta": 0.4808,
+  "Lagos": 0.5033,
+  "Lima": 0.4883,
+  "Manila": 0.4898,
+  "Nairobi": 0.4884,
+  "Oslo": 0.4991,
+  "Perth": 0.4856,
+  "Quito": 0.4763
+ },
+ "sensitivity_by_class": {
+  "biased|4": [
+   0.721,
+   0.828
+  ],
+  "biased|8": [
+   0.817,
+   0.902
+  ],
+  "biased|16": [
+   0.861,
+   0.942
+  ],
+  "biased|32": [
+   0.877,
+   0.985
+  ],
+  "biased|64": [
+   0.933,
+   0.999
+  ],
+  "biased|128": [
+   1.0,
+   1.0
+  ],
+  "clean|4": [
+   0.018,
+   0.112
+  ],
+  "clean|8": [
+   0.024,
+   0.217
+  ],
+  "clean|16": [
+   0.027,
+   0.402
+  ],
+  "clean|32": [
+   0.022,
+   0.623
+  ],
+  "clean|64": [
+   0.024,
+   0.853
+  ],
+  "clean|128": [
+   0.0,
+   1.0
+  ],
+  "ibm|4": [
+   0.673,
+   0.804
+  ],
+  "ibm|8": [
+   0.773,
+   0.885
+  ],
+  "ibm|16": [
+   0.823,
+   0.953
+  ],
+  "ibm|32": [
+   0.845,
+   0.99
+  ],
+  "ibm|64": [
+   0.872,
+   1.0
+  ],
+  "ibm|128": [
+   0.875,
+   1.0
+  ]
+ },
+ "sensitivity_biased": {
+  "PRNG_biased_505_0_495_1|4": 0.016,
+  "PRNG_biased_505_0_495_1|8": 0.084,
+  "PRNG_biased_505_0_495_1|16": 0.204,
+  "PRNG_biased_505_0_495_1|32": 0.264,
+  "PRNG_biased_505_0_495_1|64": 0.6,
+  "PRNG_biased_505_0_495_1|128": 1.0,
+  "PRNG_biased_51_0_49_1|4": 0.31,
+  "PRNG_biased_51_0_49_1|8": 0.82,
+  "PRNG_biased_51_0_49_1|16": 0.964,
+  "PRNG_biased_51_0_49_1|32": 0.998,
+  "PRNG_biased_51_0_49_1|64": 1.0,
+  "PRNG_biased_51_0_49_1|128": 1.0,
+  "PRNG_biased_52_0_48_1|4": 0.998,
+  "PRNG_biased_52_0_48_1|8": 1.0,
+  "PRNG_biased_52_0_48_1|16": 1.0,
+  "PRNG_biased_52_0_48_1|32": 1.0,
+  "PRNG_biased_52_0_48_1|64": 1.0,
+  "PRNG_biased_52_0_48_1|128": 1.0,
+  "PRNG_biased_55_0_45_1|4": 1.0,
+  "PRNG_biased_55_0_45_1|8": 1.0,
+  "PRNG_biased_55_0_45_1|16": 1.0,
+  "PRNG_biased_55_0_45_1|32": 1.0,
+  "PRNG_biased_55_0_45_1|64": 1.0,
+  "PRNG_biased_55_0_45_1|128": 1.0,
+  "PRNG_biased_58_0_42_1|4": 1.0,
+  "PRNG_biased_58_0_42_1|8": 1.0,
+  "PRNG_biased_58_0_42_1|16": 1.0,
+  "PRNG_biased_58_0_42_1|32": 1.0,
+  "PRNG_biased_58_0_42_1|64": 1.0,
+  "PRNG_biased_58_0_42_1|128": 1.0,
+  "PRNG_biased_59_0_41_1|4": 1.0,
+  "PRNG_biased_59_0_41_1|8": 1.0,
+  "PRNG_biased_59_0_41_1|16": 1.0,
+  "PRNG_biased_59_0_41_1|32": 1.0,
+  "PRNG_biased_59_0_41_1|64": 1.0,
+  "PRNG_biased_59_0_41_1|128": 1.0
+ },
+ "position": {
+  "passed_after_vn": {
+   "circuits": 26,
+   "median_spread": 0.0082,
+   "min": 0.004,
+   "max": 0.034
+  },
+  "rejected_after_vn": {
+   "circuits": 10,
+   "median_spread": 0.0191,
+   "min": 0.0072,
+   "max": 0.066
+  }
+ },
+ "position_reference_max_spread": 0.0108,
+ "position_significant": {
+  "tests": 705,
+  "type3": "9 of 9",
+  "other_ibm": "0 of 27",
+  "references": 0
+ },
+ "type3_period4_spread": {
+  "Belem": [
+   0.02089977264404297,
+   "0.4806 0.4628 0.4837 0.4769"
+  ],
+  "Jakarta": [
+   0.04636955261230469,
+   "0.4593 0.5056 0.4894 0.4790"
+  ],
+  "Lagos": [
+   0.007640838623046875,
+   "0.4979 0.4995 0.5001 0.5056"
+  ],
+  "Lima": [
+   0.06417318932095867,
+   "0.5298 0.4698 0.4656 0.4924"
+  ],
+  "Manila": [
+   0.010580980140744267,
+   "0.4963 0.4875 0.4952 0.4858"
+  ],
+  "Nairobi": [
+   0.031209945678710938,
+   "0.4871 0.4684 0.4851 0.4997"
+  ],
+  "Oslo": [
+   0.015024701286764752,
+   "0.4924 0.4941 0.5074 0.4992"
+  ],
+  "Perth": [
+   0.03020477294921875,
+   "0.5101 0.4841 0.4844 0.4799"
+  ],
+  "Quito": [
+   0.02254040082976444,
+   "0.4739 0.4964 0.4757 0.4822"
+  ]
+ },
+ "von_neumann_4streams": {
+  "ibm_devices_unhealthy": 0,
+  "ibm_circuits_rejected": 0,
+  "ibm_circuits": 36,
+  "ibm_groups_rejected": 0,
+  "ibm_groups": 180,
+  "by_test": {
+   "frequency": 0,
+   "runs": 0,
+   "longest_run": 0,
+   "poker": 0,
+   "autocorrelation": 0
+  },
+  "clean_unhealthy": 0,
+  "biased_unhealthy": 0
+ },
+ "vn_split": {
+  "type3_circuits_rejected": 8,
+  "type3_groups": 30,
+  "other_circuits_rejected": 2,
+  "other_groups": 2
+ },
+ "vn_rejected_list": [
+  "Belem|QRNG_Type_3_Belem|frequency",
+  "Belem|QRNG_Type_3_Belem|longest_run",
+  "Belem|QRNG_Type_3_Belem|poker",
+  "Belem|QRNG_Type_3_Belem|runs",
+  "Jakarta|QRNG_Type_3_Jakarta|frequency",
+  "Jakarta|QRNG_Type_3_Jakarta|longest_run",
+  "Jakarta|QRNG_Type_3_Jakarta|poker",
+  "Jakarta|QRNG_Type_3_Jakarta|runs",
+  "Lagos|QRNG_Type_3_Lagos|frequency",
+  "Lagos|QRNG_Type_3_Lagos|longest_run",
+  "Lima|QRNG_Type_3_Lima|frequency",
+  "Lima|QRNG_Type_3_Lima|longest_run",
+  "Lima|QRNG_Type_3_Lima|poker",
+  "Lima|QRNG_Type_3_Lima|runs",
+  "Manila|QRNG_Type_3_Manila|frequency",
+  "Manila|QRNG_Type_3_Manila|longest_run",
+  "Manila|QRNG_Type_3_Manila|poker",
+  "Manila|QRNG_Type_3_Manila|runs",
+  "Oslo|QRNG_Type_3_Oslo|autocorrelation",
+  "Oslo|QRNG_Type_3_Oslo|frequency",
+  "Oslo|QRNG_Type_3_Oslo|runs",
+  "PRNG_biased_51_0_49_1|all|autocorrelation",
+  "PRNG_biased_51_0_49_1|all|runs",
+  "Perth|Basic_QRNG_Perth|runs",
+  "Perth|QRNG_Type_3_Perth|autocorrelation",
+  "Perth|QRNG_Type_3_Perth|frequency",
+  "Perth|QRNG_Type_3_Perth|longest_run",
+  "Perth|QRNG_Type_3_Perth|poker",
+  "Perth|QRNG_Type_3_Perth|runs",
+  "Quito|QRNG_Type_1_Quito|frequency",
+  "Quito|QRNG_Type_3_Quito|frequency",
+  "Quito|QRNG_Type_3_Quito|longest_run",
+  "Quito|QRNG_Type_3_Quito|poker",
+  "Quito|QRNG_Type_3_Quito|runs"
+ ],
+ "vn4_split": {
+  "type3_circuits_rejected": 0,
+  "type3_groups": 0,
+  "other_circuits_rejected": 0,
+  "other_groups": 0
+ },
+ "vn4_rejected_list": []
+}

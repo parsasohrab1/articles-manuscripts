@@ -36,5 +36,6 @@ Figures are drawn from the numbers in each manuscript; experiments were not re-r
 | wearshift-har-splits | Random Splits Overstate Wearable Activity Recognition: Per-Subject Accuracy on UCI HAR | s_npj | 5 | 1545 | Marked unsuccessful; revise before resubmission |
 | hvac-opening-hours | How much HVAC electricity is used outside opening hours (two public buildings, measured data) | s_els_control_engineering_practice | 7 | 1429 | Draft for author review; not submitted |
 | gas-distribution-forecast | Day-ahead forecasting of gas distribution offtake and the balancing margin | s_els_energy | 7 | 1278 | Draft for author review; not submitted |
+| qrng-audit-quantics | Position-dependent bias limits randomness extraction in public bit sequences from nine IBM quantum computers | s_quantics | 7 | 1866 | Draft for author review; not submitted |
 
-The folders `hvac-opening-hours` and `gas-distribution-forecast` also contain the downloaded public data, code and results, and were computed from that data. `venue-product-matching.md` lists proposals for venues without a product.
+The folders `hvac-opening-hours` and `gas-distribution-forecast` also contain the downloaded public data, code and results, and were computed from that data. `qrng-audit-quantics` contains code and results computed from a public Zenodo archive; the archive itself is listed in its manifest, not stored. `venue-product-matching.md` lists proposals for venues without a product.

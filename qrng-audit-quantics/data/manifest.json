@@ -1,0 +1,12 @@
+[
+ {
+  "file": "S_2023_trials.zip",
+  "source": "https://zenodo.org/api/records/10542216/files/S_2023_trials.zip/content",
+  "doi": "https://doi.org/10.5281/zenodo.10542216",
+  "licence": "CC-BY-4.0",
+  "bytes": 32903717,
+  "md5": "c76329c507922b97b3ce0a9b67162610",
+  "sha256": "c4a3ac8b8384742511a779f9f78b03ab0257afc9226940516440187d9c7bcec9",
+  "note": "not stored in this repository; download and extract into data/raw"
+ }
+]
